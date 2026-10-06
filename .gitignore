@@ -1,0 +1,7 @@
+# Temporary scratch files and caches
+raw_threads/
+upstream_md/
+*.py
+catalog.json
+tweet_ids.json
+synd_missing.json
