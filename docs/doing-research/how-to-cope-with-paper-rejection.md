@@ -6,83 +6,75 @@
 ---
 
 How to cope with paper rejection?
-
-Rejection SUCKS! It feels awful that months of hard work got dismissed with a few lines of comments. 😩
-
-Here are some tips to help you move forward. 🧵
+Rejection SUCKS! It feels awful that months of hard work did not pay off. 😭 How do we hold a positive outlook when dealing with rejection?
+A thread of lessons (learned from many rejections) 🧵
 
 如何应对论文被拒？
-
-被拒稿的感觉糟透了！几个月辛勤付出的心血仅仅被几行评语就全盘否决，那种感受令人无比难受。😩
-
-这里有一些帮助你重新整装出发的建议。🧵
+被拒稿的感觉糟透了！几个月的辛勤付出却没有回报，这种感觉太难受了。😭 面对拒稿时，我们该如何保持积极的心态？
+这是一条总结经验教训的推文串（从无数次被拒中摸索出来的）🧵
 
 ---
 
-*Take a break*
+*It’s okay to be upset*
+Rejection hurts, literally. Rejection activates the same brain regions as we are physically hurt. So it's perfectly okay to feel upset. Talk with friends/lab mates/advisor. Take a day off and come back recharged.
 
-Don't read the reviews right away if you are emotional.  
-Take a walk, eat good food, hang out with friends, or play video games.  
-Give yourself 24-48 hours to cool down before diving into the reviews.
+*难过是很正常的 (It’s okay to be upset)*
+被拒真的会让人心痛。字面意义上的——被拒会激活与身体受到物理创伤时相同的大脑区域。所以感到沮丧难过完全是正常的。去和朋友、实验室同伴或者导师聊一聊。休息一天，充好电再回来。
 
-*休息一下 (Take a break)*
-
-如果你此时情绪剧烈波动，不要立刻去阅读评审意见。  
-去散散步，吃顿美食，和朋友聚聚，或者打打电子游戏。  
-在深入分析评审意见之前，给自己 24-48 小时的时间冷静下来。
+![It's okay to be upset](https://pbs.twimg.com/tweet_video_thumb/FAdzKt8XoAsvP-G.jpg)
 
 ---
 
-*Separate your identity from your paper*
+*It’s normal*
+For junior students, a paper rejection can feel like a major setback. It's just part of the process.
+"Brick walls are there for a reason. The brick walls are not there to keep us out. The brick walls are there to show how badly we want something." - Randy Pausch
 
-Your paper got rejected. YOU are not rejected.  
-A paper is just a snapshot of your research progress at a particular moment. It does not define your worth as a researcher.
+*这很平常 (It’s normal)*
+对于低年级学生来说，论文被拒可能感觉是一次重大挫折。但这只是整个过程的一部分。
+“砖墙的存在是有原因的。砖墙并不是为了把我们挡在外面。砖墙的存在是为了展示我们到底有多么渴望得到某样东西。” —— 兰迪·鲍许（Randy Pausch）
 
-*将你的自我认同与论文剥离开来 (Separate your identity from your paper)*
-
-被拒的是你的论文，而不是你这个人。  
-一篇论文仅仅代表你在某一特定时刻科研进展的一个切片，它绝不定义你作为一个研究者的全部价值。
-
----
-
-*Find the constructive feedback*
-
-Reviewers might be harsh or misunderstand your work.  
-Instead of being defensive, ask yourself:  
-"What caused this misunderstanding? How can I write this part more clearly so that even a hurried reviewer won't miss it?"
-
-*寻找建设性的反馈 (Find the constructive feedback)*
-
-审稿人的言辞可能尖酸刻薄，或者完全误解了你的工作。  
-与其本能地开启防御姿态，不如问问自己：  
-“是什么导致了这种误解？我该如何把这部分写得更加清晰直白，让哪怕匆忙阅读的审稿人也不会看漏？”
+![It's normal](https://pbs.twimg.com/tweet_video_thumb/FAdzLKXXIA8nL_q.jpg)
 
 ---
 
-*Make an actionable revision plan*
+*It’s not personal.*
+Don’t take rejection personal. It's about your ideas, implementation, experiments, and writing. Create a to-do list from the reviewers' feedbacks and make sure that those concerns are properly addressed in your revision.
 
-Categorize the comments into:  
-1⃣ Missing experiments/baselines  
-2⃣ Unclear writing/visualizations  
-3⃣ Valid technical concerns  
-Create a checklist and tackle them one by one.
+*这绝非针对个人 (It’s not personal)*
+不要把拒稿当成针对你个人的否定。它针对的是你的想法、实现、实验和写作。根据审稿人的反馈梳理出一份待办清单（To-do list），并确保在修改中妥善回应这些关切。
 
-*制定可执行的修改计划 (Make an actionable revision plan)*
-
-将评审意见分类归纳为：  
-1⃣ 缺失的对比实验/基线  
-2⃣ 阐述不清的文字/可视化  
-3⃣ 合理的技术关切与质疑  
-建立一个核对清单，逐项攻坚解决。
+![It's not personal](https://pbs.twimg.com/ext_tw_video_thumb/1443243222197735428/pu/img/jtHIoz8SZWiD3dOd.jpg)
 
 ---
 
-*Resubmit and persevere*
+*It doesn't matter much.*
+Vast majority of the papers won't matter in the long run. Your career will be shaped only by a few good ones. Instead of getting an "okay" paper accepted, it could be a blessing in disguise to revise and strengthen your paper.
+Fig credit: Bill Freeman
 
-Every top researcher has a long list of rejected papers.  
-The only true failure is giving up. Revise it, make it better, and resubmit! 💪
+*长远来看，这其实没那么要紧 (It doesn't matter much)*
+从长远来看，绝大多数论文都不会有什么重大影响。你的学术生涯将仅由少数几篇真正出色的工作所塑造。与其让一篇“勉强过得去”的论文被录用，被拒稿反而可能是塞翁失马的幸事，它给了你重新修改并大幅增强这篇论文的机会。
+（图表致谢：Bill Freeman）
 
-*修改重投并坚持不懈 (Resubmit and persevere)*
+---
 
-每一位顶尖学者都有一份长长的被拒论文清单。  
-唯一的真正失败是彻底放弃。认真修改，让它变得更强，然后重新投稿！💪
+*Maintain a CV of failures*
+You failed because you tried! Create a CV of failures to normalize all these setbacks.
+Example:
+https://jbhuang0604.github.io/Huang_CV_Failures.pdf
+
+*保留一份“失败履历表” (Maintain a CV of failures)*
+你之所以失败，是因为你勇敢尝试了！建立一份记录失败的简历，把这些挫折常态化。
+示例：
+https://jbhuang0604.github.io/Huang_CV_Failures.pdf
+
+![Maintain a CV of failures](https://pbs.twimg.com/tweet_video_thumb/FAdzNbJXoAIzzga.jpg)
+
+---
+
+*Celebrate every little success along the way*
+Celebrating small wins keeps up your motivation while pursuing your goals (whatever they are). Maximize the fun in your journey.
+
+*庆祝沿途的每一个小成功 (Celebrate every little success along the way)*
+在追求目标的过程中（无论目标是什么），为每一个小小的阶段性胜利庆祝，能让你持续保持充沛的动力。尽可能让你在这段旅程中收获乐趣。
+
+![Celebrate every little success along the way](https://pbs.twimg.com/tweet_video_thumb/FAdzOA_WQAQ0cxR.jpg)
