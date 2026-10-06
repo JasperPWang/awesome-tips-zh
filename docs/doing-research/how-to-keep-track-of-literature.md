@@ -7,34 +7,74 @@
 
 如何跟进与管理学术文献？
 
-arXiv 上每天都有海量的新论文涌现，让人感到应接不暇甚至信息过载。  
-分享一些我用来高效跟踪文献与构建知识库的方法。🧵
+刚踏入科研领域，却被每年成千上万篇新论文淹没？一个人该如何保持清醒理智地跟进文献？😱  
+这里有一些我认为很有用的技巧。🧵
 
 ---
 
-### 区分“浏览”与“精读” (Skim vs Deep Read)
+### 跟踪“人”，而不是跟踪论文 (Track the people, not the papers)
 
-你不需要读完碰到的每一篇论文的全部内容。  
-- 80% 的论文：只看标题、摘要、Teaser 图和结论（用时 2-5 分钟），判断其核心观点。
-- 15% 的论文：细看方法框架图与实验对比表（用时 15 分钟）。
-- 5% 的核心基石论文：打印或放入平板，逐字逐句精读推导、复现其核心思路。
+真正推动领域向前发展的核心人物，数量远远少于论文的总篇数。当你阅读论文时，留意作者是谁。久而久之，你就能迅速辨认出那些举足轻重的学者。
 
----
-
-### 建立个人文献卡片与笔记系统 (Paper notes)
-
-每读完一篇值得关注的论文，用三句话记录：
-1. 它试图解决什么核心问题？
-2. 它的核心洞察（Key Insight）与新方法是什么？
-3. 它存在什么局限性或对我的研究有什么启发？
+![Track people](https://pbs.twimg.com/tweet_video_thumb/E8pPGHfWYAAO-dy.jpg)
 
 ---
 
-### 跟踪“人”与“实验室”，而不仅是关键词 (Follow people & labs)
+### 阅读那些拥有高质量“相关工作”的论文 (Read papers with good related work)
 
-优秀的成果往往来自于那些持续产出高水平工作的研究团队。  
-在 Google Scholar、Twitter/X 上关注领域内顶级课题组的主页和核心学生，往往比泛泛地搜关键词更高效。
+一个优秀的 Related Work 章节能够通过为先前工作提供清晰、体系化的全景视图，为你节省大量宝贵时间。  
+顺带提一句：也请你通过撰写高质量的相关工作来节省他人的时间：  
+https://twitter.com/jbhuang0604/status/1417117742302433286
+
+![Related work](https://pbs.twimg.com/tweet_video_thumb/E8pPGlrWUAAqBgt.jpg)
 
 ---
 
-保持输入与输出的平衡，文献是为你自己的研究服务，切勿让文献阅读变成拖延做实验的借口！📚
+### 体系化梳理组织论文 (Organize the papers)
+
+不要孤立地阅读单篇论文。思考它们之间是如何互相关联的（在某些维度相似，但在另一些维度不同）。建立一个以特定**属性（ATTRIBUTES）**作为列的对照表格通常很有帮助。  
+有了这个表格，后续阅读新论文就会变得轻而易举（只需往表格里追加新行即可）。
+
+![Organize papers](https://pbs.twimg.com/tweet_video_thumb/E8pPHV4XsAAUbe3.jpg)
+
+---
+
+### 避免死磕论文全文 (Avoid reading the paper)
+
+与其花费大量时间逐字阅读论文全文，不如寻找那些更容易消化的精炼材料，例如：一次学术报告、一段 YouTube 讲解视频、Teaser 效果展示、介绍视频或一张方法总览图。  
+很多时候，只要把握住论文的核心要义就足够了。
+
+![Avoid reading paper](https://pbs.twimg.com/tweet_video_thumb/E8pPH0IWEAAu0DB.jpg)
+
+---
+
+### 带着明确目的去读 (Read with a purpose)
+
+在投入时间阅读一篇论文之前，先想清楚你**为什么**要读它。你是为了了解其实验设计、论文组织结构、叙事方式、写作风格、具体方法算法，还是为了学习其可视化呈现？  
+你几乎从来不需要从头到尾、一字不漏地通读一篇论文。
+
+![Read with purpose](https://pbs.twimg.com/tweet_video_thumb/E8pPIRwXMAAXOm2.jpg)
+
+---
+
+### 识别最新趋势 (Identify the trend)
+
+使用你喜欢的工具来发现当下什么是热门与前沿趋势，例如：  
+- arxiv-sanity.com  
+- paperswithcode.com  
+- twitter.com  
+
+![Identify trend](https://pbs.twimg.com/tweet_video_thumb/E8pPI_5WYAATKl-.jpg)
+
+---
+
+希望这些对你有帮助！在一个飞速发展的领域中，你最喜欢的文献跟踪方法是什么？
+
+---
+
+### 精选同行补充与互动 (Community Insights)
+
+- **@tzumaoli 的精彩观点**：  
+  https://twitter.com/tzumaoli/status/1426208790362300422
+- **@VRAdithya 补充的多条宝贵建议**：  
+  https://twitter.com/VRAdithya/status/1426264585435181060

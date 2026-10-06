@@ -5,32 +5,59 @@
 
 ---
 
-如何向导师与合作者同步进展？
+如何向你的导师/合作者同步进展？
 
-很多学生在同步进展时，要么通篇堆砌杂乱的代码截图与日志，要么干脆长期不发声。  
-分享一些让导师和合作者一目了然的高效同步方式。🧵
+在整个科研项目中，99% 的时间里你的方法都“（暂时）跑不通”。😬
 
----
-
-### 结构化的周报模板 (Structured updates)
-
-每次同步建议遵循“三段式”结构：
-1. **本周完成的关键事项 (What was accomplished)**：挑最重要的 2-3 项核心结果，配图展示。
-2. **当前面临的问题与卡点 (Blockers & questions)**：清晰描述现象并说明自己已做过的尝试。
-3. **下周计划 (Next steps)**：列出优先级明确的行动清单。
+我们该如何分享这些“失败的结果”，并与导师/合作者展开富有成效的对话？👇
 
 ---
 
-### 用图表说话，而不是长文本 (Visual first)
+### 设计：我们为什么要做这个实验？ (Design: Why do we want do this experiment?)
 
-导师每天要阅读大量文本。  
-一张直观的对比图（例如 Baseline vs 你的方法）或者一个训练曲线图，远胜过几百字的文字描述。
+请把你的导师当成金鱼 🐟（记忆只有几秒）。  
+提醒他们你**为什么**要做某个特定的实验，或者**为什么**要实现某个特定的功能。  
+这将为他们提供必要的上下文，帮助他们理解分析实验结果并把控你的研究方向。
+
+![Design](https://pbs.twimg.com/tweet_video_thumb/FCtv3OtXoAECnFd.jpg)
 
 ---
 
-### 明确你的诉求 (Be clear about the Ask)
+### 假设：我们期望看到什么？ (Hypothesis: What do we expect to see?)
 
-在同步邮件或信息的末尾，明确指出你希望导师做什么：
-- “请帮我审阅这段证明”
-- “我们周四需要就这个架构选择进行 15 分钟讨论”
-- “目前一切按计划进行，仅做知会同步，无需回复”。
+在展示你的结果之前，先说明一下（如果一切都正确的话）原本应该发生什么？
+
+![Hypothesis](https://pbs.twimg.com/tweet_video_thumb/FCtv3r7XEAEJCBJ.jpg)
+
+---
+
+### 观察：我们看到了什么？ (Observation: What did we see?)
+
+展示那些（失败的）结果。不要仅仅说“它跑不通”。具体描述它是**如何**失败的。
+
+![Observation](https://pbs.twimg.com/tweet_video_thumb/FCtv4dRWYAAigiC.jpg)
+
+---
+
+### 解读：这符合预期吗/起作用了吗？ (Interpretation: Is this expected/working?)
+
+展示结果之后，点评分析这些结果是如何符合你的预期，或者如何偏离你的预期的。
+
+![Interpretation](https://pbs.twimg.com/tweet_video_thumb/FCtv5CJXEAEl5tK.jpg)
+
+---
+
+### 可视化：有没有更好的方式来呈现结果？ (Visualization: Any better ways to see the results?)
+
+通过良好的可视化来观察结果，有助于深化我们的理解并发现潜在的问题。
+
+![Visualization](https://pbs.twimg.com/tweet_video_thumb/FCtv5tEXsAUyouc.jpg)
+
+---
+
+### 可执行的下一步：你打算采取什么步骤？ (Actionable next steps: What steps would you do?)
+
+记得主动提出下一步计划，以便推进项目进展。  
+请记住，你是这个项目的**核心驱动者（DRIVE）**。不要只是被动等待指令。
+
+![Actionable next steps](https://pbs.twimg.com/tweet_video_thumb/FCtv6KRXIAETXuq.jpg)
