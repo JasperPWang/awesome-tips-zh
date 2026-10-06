@@ -1,38 +1,114 @@
-# How to be productive? / 如何高效管理时间并保持高生产力？
+# How to be productive? / 如何实现高效率与时间管理？
 
 > 原文作者：Jia-Bin Huang ([@jbhuang0604](https://x.com/jbhuang0604))  
 > 原始推文：[https://twitter.com/jbhuang0604/status/1430003911037947904](https://twitter.com/jbhuang0604/status/1430003911037947904)
 
 ---
 
-For the first time in five years, I have a full-time work schedule. I thought I would have SO MUCH time. But nope, work expands to fill all available time.
+For the first time in five years, I have a full-time work schedule. I thought I will trivially be 3-4 times more productive, but it turns out managing time well is so damn challenging. 😬
+After watching productivity videos to procrastinate, here are what I found useful. 🧵
 
-Some tricks I learned to protect time and boost productivity 👇
-
-这是五年来我第一次拥有全职的工作日程。我原以为自己会有海量的大把时间。但事实并非如此——工作总是会膨胀并填满所有的可用时间。
-
-分享我学到的保护时间与提升生产力的一些诀窍。👇
+五年来我第一次拥有了全职工作的时间表。我本以为自己的产出会轻而易举地提升 3 到 4 倍，但事实证明，做好时间管理简直难如登天。😬
+在靠狂刷各种“生产力视频”来拖延症之后，我总结了以下切实管用的经验。🧵
 
 ---
 
-*Block uninterrupted deep work*  
-Set aside 3-4 hours every morning for high-leverage tasks (writing code, math derivations, drafting papers). No email, no meetings, no slack.
+*Eat that frog*
+If you have to eat a frog, make it the very first task you do in your day. If you have to eat three frogs a day, do not start with the small one.
 
-*锁定不受干扰的深度工作时间 (Block uninterrupted deep work)*  
-每天上午预留 3-4 个小时专门用于最具杠杆效应的核心任务（编写核心代码、数学公式推导、撰写论文初稿）。不看邮件、不开会、不刷 Slack。
+*先吃掉那只青蛙 (Eat that frog)*
+如果你今天必须吃掉一只青蛙，那就把它作为你每天清晨要做的第一件事。如果你一天必须吃掉三只青蛙，千万别从小的那只开始吃（先啃下最艰难的硬骨头）。
 
----
-
-*Batch shallow work*  
-Process emails, administrative requests, and short errands in one batch in the late afternoon.
-
-*批量处理琐碎事务 (Batch shallow work)*  
-将回复邮件、行政杂务和微小琐事集中在每天下午晚些时候一次性批量处理完毕。
+![Eat that frog](https://pbs.twimg.com/tweet_video_thumb/E9hk_HtXoAAnhMZ.jpg)
 
 ---
 
-*Focus on deliverables, not hours*  
-Sitting in front of the computer for 12 hours is meaningless if nothing ships. Measure your day by tangible milestones completed.
+*Have a plan*
+If you have no idea what you will be doing 2:30 PM next Wed, you are doing it wrong. It's okay to be flexible and change the plan, but make sure that you have a plan to start with.
 
-*以具体产出而非工作时长为导向 (Focus on deliverables, not hours)*  
-在电脑前枯坐 12 个小时毫无意义，关键在于是否有成果产出。用每天切实达成的里程碑来衡量一天的价值。
+*凡事必有规划 (Have a plan)*
+如果你压根不知道下周三下午 2:30 自己要做什么，那你的工作方式就出问题了。保持灵活并随时根据变化调整计划完全没问题，但关键在于你必须从一开始就拥有清晰的规划底稿。
+
+![Have a plan](https://pbs.twimg.com/tweet_video_thumb/E9hk_zUXsAUw9lK.jpg)
+
+---
+
+*Do what you are doing*
+Be aware of what the task you are doing at the present time. Multitasking is simply an illusion of rapid context switching.
+
+*专注当下所做之事 (Do what you are doing)*
+时刻清醒意识到自己此刻正在攻克什么任务。所谓的“多任务并行（Multitasking）”，本质上只是一种在不同语境之间快速切换造成的心理错觉。
+
+---
+
+*Treat time as space*
+Make EVERYTHING you plan to do as a calendar entry (including planning the calendar) and do it at that time. Check out @deviparikh's excellent blog post.
+https://deviparikh.medium.com/calendar-in-stead-of-to-do-lists-900fe8dc2c1b
+
+*把时间当成空间 (Treat time as space)*
+把你计划要做的“每一件事”（包括规划日历本身）都变成日历上的具体时间块，并在对应的时间坚决执行。强烈推荐阅读 Devi Parikh 教授的精彩博文：用日历代替待办清单。
+https://deviparikh.medium.com/calendar-in-stead-of-to-do-lists-900fe8dc2c1b
+
+![Treat time as space](https://pbs.twimg.com/tweet_video_thumb/E9hlAvoXsAQ-4tT.jpg)
+
+---
+
+*Use interrupt coalescing*
+Group and defer interruptions (e.g., emails, slack messages, twitter feeds) according to their urgency. Allocate a specific time slot in a day to address these interruptions.
+
+*合并处理外界中断 (Use interrupt coalescing)*
+借鉴操作系统的“中断合并”策略，根据紧急程度对外界打扰（如邮件、Slack 消息、社交媒体推送）进行归类与延迟。在一天中划出专门的固定时间段集中批量处理。
+
+![Interrupt coalescing](https://pbs.twimg.com/tweet_video_thumb/E9hlBO2WQAAI24A.jpg)
+
+---
+
+*Break your day down into short time chunks*
+Get a timer/app, work on your task for 25 mins. Take a 5 min break and repeat. (Pomodoro Technique)
+
+*把一天切分为短时间模块 (Break day down)*
+使用计时器或番茄钟软件，高度专注工作 25 分钟，随后休息 5 分钟，循环往复（番茄工作法）。
+
+![Pomodoro](https://pbs.twimg.com/tweet_video_thumb/E9hlBzDWEAMLt8j.jpg)
+
+---
+
+*Learn to say no*
+Before accepting any new tasks, ask yourself
+• Why should I do it?
+• What happens if I don't do it?
+Pro tip: Create a "no" folder to save the things you said no. Celebrate how much time you get back in your life.
+
+*学会说“不” (Learn to say no)*
+在答应接受任何新任务之前，先认真拷问自己：
+• 为什么这事该由我来做？
+• 如果我不做，究竟会发生什么可怕后果？
+高阶技巧：建立一个专门的“No”文件夹，存放你果断拒绝掉的琐事，为自己从生活中抢回了多少宝贵时间而庆祝！
+
+---
+
+*Give up precise task prioritization*
+Sometimes you may be spending more time ranking the tasks than actually doing it.
+
+*放弃对任务优先级的过度精确排序 (Give up precise task prioritization)*
+有时候，你花在反复衡量、微调任务优先级排序上的时间，可能比真正动手去做这件事本身还要多。
+
+![Prioritization](https://pbs.twimg.com/tweet_video_thumb/E9hlCieWEAUWY8j.jpg)
+
+---
+
+*Touch each email exactly once*
+Open an email, skim through it, and make a quick decision (reply/archive/allocate a time slot). Keep your inbox zero.
+
+*每封邮件只触碰一次 (Touch each email exactly once)*
+点开一封邮件，快速扫一眼，立即做出果断决策（立即回复 / 直接归档 / 放入日历特定时间段）。保持收件箱清零（Inbox Zero）。
+
+![Touch email once](https://pbs.twimg.com/tweet_video_thumb/E9hlDC-XoAUL9-v.jpg)
+
+---
+
+Any tips/advices on time management are very welcome!
+(Procrastinating with this twitter thread...)
+
+非常欢迎大家分享自己的时间管理心得与建议！
+（写这条推文串的我其实也正在拖延中……）

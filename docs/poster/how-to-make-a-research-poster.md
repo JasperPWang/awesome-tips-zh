@@ -1,4 +1,4 @@
-# How to make a research poster? / 如何制作学术海报？
+# How to make a research poster? / 如何制作高质量科研海报？
 
 > 原文作者：Jia-Bin Huang ([@jbhuang0604](https://x.com/jbhuang0604))  
 > 原始推文：[https://twitter.com/jbhuang0604/status/1438948793718804486](https://twitter.com/jbhuang0604/status/1438948793718804486)
@@ -6,69 +6,101 @@
 ---
 
 How to make a research poster?
+Poster presentation is a great (and fun!) way to showcase your research, interact with researchers, and get feedback from them. But how we make a good poster? 🤔
+My two cents below 🧵
 
-Poster presentation is a great (and fun!) way to share your research and connect with other researchers.
-
-Here are some tips for making your poster visually appealing and effective. 🧵
-
-如何制作学术海报？
-
-海报展示（Poster Presentation）是分享你的科研成果并结识其他学者的绝佳（且有趣！）途径。
-
-这里有一些让你的海报更具视觉吸引力且表达高效的实用技巧。🧵
+如何制作科研海报？
+海报展示（Poster presentation）是展示你的研究成果、与同行学者面对面交流并获取直接反馈的极佳（且充满乐趣！）途径。但我们该如何做出一张出色的海报？🤔
+分享我的一些心得 🧵
 
 ---
 
-*Less is more*
+*Abstract*
+Poster is a VISUAL abstract. Please DO NOT dump your paper abstract to your poster. Your job is to get people excited so that they will read your paper afterward.
+Your poster should have
+• zero complete sentences
+• one-liners only
 
-Don't paste your paper onto the poster!  
-Attendees walk by and spend only a few seconds deciding whether to stop.  
-Reduce text to the minimum. Use bullet points and large fonts.
+*海报是视觉摘要 (Abstract)*
+海报本质上是一份**视觉摘要（Visual Abstract）**。请**千万不要**把论文的文字摘要直接照搬到海报上！你的任务是引起同行的强烈兴趣，吸引他们在会后去阅读你的论文。
+海报应当做到：
+• 没有任何臃肿的长难句
+• 全由精炼的一句话短语（One-liners）构成
 
-*少即是多 (Less is more)*
-
-切勿把整篇论文直接复制粘贴到海报上！  
-参会者路过展板通常只会花几秒钟决定是否驻足。  
-将纯文字削减到最少。多使用醒目的项目符号和大字号。
-
----
-
-*Visual hierarchy*
-
-Design with a clear reading flow:  
-1⃣ Catchy Title & Authors (visible from 5m away)  
-2⃣ Main Takeaway / Teaser Figure (the visual hook)  
-3⃣ Problem & Method (simplified diagrams)  
-4⃣ Key Results (charts, comparisons)
-
-*视觉层级 (Visual hierarchy)*
-
-设计清晰的阅读流线：  
-1⃣ 醒目的标题与作者信息（5 米开外清晰可见）  
-2⃣ 核心结论 / Teaser 主图（视觉抓手）  
-3⃣ 问题与方法（简化流程图）  
-4⃣ 核心结果（直观图表与对比）
+![Visual abstract](https://pbs.twimg.com/tweet_video_thumb/E_gsTn9XIAgEj8o.jpg)
 
 ---
 
-*Make figures stand out*
+*Links to paper/website/data*
+Provide simple ways that help your audience to learn more about your work!
+Examples:
+• Add a QR code at the top of your poster.
+• Add a *custom* short URL (no one remembers random sequence like bit.ly/3tPGM3x)
 
-High-resolution figures with clear annotations.  
-If you have qualitative results, make them big and prominent!
+*附带论文/项目主页/数据链接 (Links)*
+为听众提供最便捷的途径以深入了解你的工作：
+示例：
+• 在海报顶部显眼位置放置二维码
+• 附带易记的**定制短网址**（没有人记得住一串随机乱码，如 bit.ly/3tPGM3x）
 
-*突出图表 (Make figures stand out)*
-
-使用高分辨率的图表，并配上清晰简明的标注。  
-如果你有惊艳的定性视觉对比结果，把它们放大并放在最显眼的位置！
+![Links](https://pbs.twimg.com/ext_tw_video_thumb/1438935794362855429/pu/img/9P2-aAvUbzne7MsB.jpg)
 
 ---
 
-*Add QR codes*
+*Distill the key messages from your paper*
+Accept the fact that you won't be able to present everything in your paper. Ruthlessly remove all the unimportant details/results.
 
-Put a QR code linking to your project page, paper PDF, and code repository.  
-Make it easy for interested attendees to take your work with them!
+*提炼核心信息 (Distill key messages)*
+坦然接受这一事实：你不可能把论文里的每一项内容都搬上海报。无情地删掉所有细枝末节与次要结果。
 
-*附上二维码 (Add QR codes)*
+![Distill messages](https://pbs.twimg.com/tweet_video_thumb/E_gsUkVXsAE-DQA.jpg)
 
-在海报角落放置一个二维码，直接链接到你的项目主页、论文 PDF 和代码仓库。  
-方便感兴趣的参会者掏出手机一键扫码保存！
+---
+
+*Align everything*
+Your poster usually have multiple blocks of contents, e.g., problem, key idea, method, results. Horizontally and vertically align all the blocks so that the poster is balance and visually pleasing.
+
+*严格对齐所有排版区块 (Align everything)*
+海报通常包含多个内容区块（如问题背景、核心构想、方法流程、实验结果）。在水平和垂直方向严格对齐所有板块，使整张海报呈现出视觉上的平衡与舒适。
+
+![Align everything](https://pbs.twimg.com/tweet_video_thumb/E_gsVENXsAU4zq6.jpg)
+
+---
+
+*References*
+Do not simply copy-paste the large tables of results from your paper. Nobody knows what [14] [42] [57] are.
+Simplify, visualize the key results. Replace numbered reference citations with [Name-Venue-Year].
+
+*参考文献引用 (References)*
+不要机械地复制粘贴论文中的大型数字表格。在海报前没有人知道 [14]、[42]、[57] 对应哪篇论文。
+精简并视觉化核心结果。将数字序号引用替换为具象的 [作者-会议-年份] 格式。
+
+![References](https://pbs.twimg.com/tweet_video_thumb/E_gsVkdXEAk1u7C.jpg)
+
+---
+
+*Color palette*
+It does not have to be beautiful, but please don't burn others' retina...
+
+*配色方案 (Color palette)*
+海报不一定要设计得美轮美奂，但求求大家千万别用高饱和度刺眼荧光色去灼伤别人的视网膜……
+
+---
+
+*Important information on the top*
+This is relevant only for physical conferences. When you have crowd in front your poster, only the top areas are visible for people. Value those areas more.
+
+*核心信息置顶 (Important information on the top)*
+这主要针对线下实体学术会议。当你的海报前围了一群人时，外围的人通常只能看到海报的上半部分。格外珍视并用好海报顶部的黄金展示区域。
+
+![Information on top](https://pbs.twimg.com/tweet_video_thumb/E_gsWc9X0AgZ9zv.jpg)
+
+---
+
+*Scripting*
+Write down your 1-2 mins elevator pitch so you can present the gist of work quickly. It's super annoying to listen to a long and unorganized poster presentation (and feel awkward to interrupt you so they can leave).
+
+*提前撰写讲解脚本 (Scripting)*
+准备好 1-2 分钟的“电梯演讲（Elevator Pitch）”脚本，以便快速清晰地阐述工作精髓。听一段冗长混乱的海报讲解非常折磨人（而且听众往往还会因为不好意思中途打断你离开而感到尴尬）。
+
+![Scripting](https://pbs.twimg.com/tweet_video_thumb/E_gsXEeWYAoRtQ-.jpg)

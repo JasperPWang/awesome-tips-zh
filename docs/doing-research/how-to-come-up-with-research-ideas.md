@@ -6,71 +6,103 @@
 ---
 
 How to come up with research ideas?
-
-Excited about starting doing research but have no idea where to start? 🤔
-
-Here are some strategies I found helpful for brainstorming new research directions. 🧵
+Excited about starting doing research but have no clue?🤷‍♂️🤷🏻‍♀️ Here are some simple methods that I found useful in identifying initial directions.
+Check out the thread below 👇
 
 如何构思科研想法？
-
-满怀热情想要开启科研，却完全不知道从何入手？🤔
-
-分享一些我在头脑风暴构思全新科研方向时认为很有用的策略。🧵
+满怀热情想要开启科研却毫无头绪？🤷‍♂️🤷🏻‍♀️ 分享一些我在寻找初始研究方向时觉得非常管用的简便方法。
+请看下面的推文串 👇
 
 ---
 
-*Challenge assumptions*
+*Find a different dimension*
+Just learn a cool idea from others? Think about how you could extend it to another dimension.
+Ex: Text / audio / image / video / graph
 
-Every existing paper makes some assumptions.  
-What if you relax or challenge those assumptions?  
-- Static scene ➡️ Dynamic scene?  
-- Supervised ➡️ Unsupervised / Self-supervised?  
-- Rigid ➡️ Non-rigid?
+*寻找不同的维度 (Find a different dimension)*
+刚从别人的工作中学习到一个很酷的想法？思考一下你是否能把它扩展到另一个维度。
+例如：文本 / 音频 / 图像 / 视频 / 图结构（Graph）
 
-*挑战前置假设 (Challenge assumptions)*
-
-每一篇已有的论文都建立在某些前置假设之上。  
-如果你放宽或直接推翻这些假设会发生什么？  
-- 静态场景 ➡️ 动态场景？  
-- 有监督 ➡️ 无监督 / 自监督？  
-- 刚性物体 ➡️ 非刚性形变？
+![Find a different dimension](https://pbs.twimg.com/tweet_video_thumb/E8FJfXhXMAIts49.jpg)
 
 ---
 
-*Import ideas from adjacent fields*
+*Relax assumptions*
+Identify the underlying assumptions of existing work and try relaxing them to make it work in more unconstrained settings.
 
-A well-known technique in one domain (e.g., graphics, robotics, NLP) might be completely novel and effective in another domain (e.g., vision, medical imaging).  
-Talk to people outside your subfield!
+*放宽前置假设 (Relax assumptions)*
+识别已有工作背后的潜在假设，并尝试放宽这些假设，使其能够在更不受限制、更具普适性的真实场景中运行。
 
-*借用临近领域的成熟思想 (Import ideas from adjacent fields)*
-
-在某个领域（如图形学、机器人、自然语言处理）里广为人知的技术，搬到另一个领域（如计算机视觉、医学成像）可能就是极具突破性的全新思路。  
-多去和非本赛道的学者交流！
+![Relax assumptions](https://pbs.twimg.com/tweet_video_thumb/E8FJf3bXEAArOrJ.jpg)
 
 ---
 
-*Look at failure cases*
+*Make more assumptions*
+Take a general approach and tailor it to your SPECIFIC problem. You can then leverage all the domain knowledge (i.e., make more assumptions) to improve the method.
 
-Don't just look at the cherry-picked success cases in papers.  
-Download the code, run it on challenging inputs, and see WHERE and WHY it fails.  
-Those failure cases are fertile ground for new research ideas.
+*增加更多假设 (Make more assumptions)*
+选取一个通用方法，并将其专门针对你的“特定”问题进行量身定制。这样你就可以利用所有的领域先验知识（即引入更多先验假设）来显著改进该方法。
 
-*深入观察失败案例 (Look at failure cases)*
-
-不要只看论文里精心挑选的成功案例。  
-下载开源代码，在更具挑战性的输入上跑一跑，看看它到底在**什么场景下**会崩溃、以及**为什么**崩溃。  
-那些失败案例正是孕育新课题的最肥沃土壤。
+![Make more assumptions](https://pbs.twimg.com/tweet_video_thumb/E8FJgW3XMAAija3.jpg)
 
 ---
 
-*Connect the dots*
+*Combine two ideas/problems*
+"To steal ideas from one person is plagiarism. To steal from many is research." - Wilson Mizner
 
-Combine two orthogonal methods that have complementary strengths.  
-Method A is fast but inaccurate; Method B is accurate but slow.  
-Can you design a hybrid framework that gets the best of both worlds?
+*组合两个想法/问题 (Combine two ideas/problems)*
+“从一个人那里窃取想法是抄袭；从许多人那里汲取想法则是科研。” —— 威尔逊·米兹纳（Wilson Mizner）
 
-*跨界串联 (Connect the dots)*
+---
 
-将两种具有互补优势的正交方法结合起来。  
-方法 A 速度飞快但不精确；方法 B 极其精准但速度缓慢。  
-你是否能够设计一个混合框架，兼收两者的最大优势？
+*Grab a powerful hammer and find all the nails*
+Pay attention to new emerging tools in the community. Apply and adapt them on your problem.
+
+*拿起一把强大的锤子，寻找所有的钉子 (Grab a powerful hammer and find all the nails)*
+密切关注学术社区中最新涌现的强大工具与方法。将它们应用并迁移适配到你的具体问题上。
+
+![Grab a powerful hammer and find all the nails](https://pbs.twimg.com/tweet_video_thumb/E8FJhF3XIAEvDL4.jpg)
+
+---
+
+*Add an adjective*
+Given an existing idea X, add an adjective to make it
+- slow➡️ fast
+- batch➡️online
+- sensitive➡️robust
+- centralized➡️distributed
+- single-step➡️progressive
+- single-level➡️hierarchical
+- fixed➡️adaptive, sth-aware
+- data-hungry➡️data-efficient
+and so on
+
+*增加一个形容词 (Add an adjective)*
+给定一个已有的研究构想 X，给它加上一个形容词属性，使其：
+- 慢速 ➡️ 快速（slow ➡️ fast）
+- 离线批处理 ➡️ 在线实时（batch ➡️ online）
+- 敏感脆弱 ➡️ 稳健鲁棒（sensitive ➡️ robust）
+- 集中式 ➡️ 分布式（centralized ➡️ distributed）
+- 单步 ➡️ 渐进式（single-step ➡️ progressive）
+- 单层 ➡️ 分层级（single-level ➡️ hierarchical）
+- 固定 ➡️ 自适应 / 某某感知（fixed ➡️ adaptive, sth-aware）
+- 依赖海量数据 ➡️ 数据高效利用（data-hungry ➡️ data-efficient）
+等等诸如此类。
+
+![Add an adjective](https://pbs.twimg.com/tweet_video_thumb/E8FJhj3WQAErr91.jpg)
+
+---
+
+*Stress test the state-of-the-art*
+Don't simply run on the fixed, boring benchmark datasets. Try it out on diverse, unconstrained examples and see how it fails. It's a great way to identify limitations of existing work. This is where your work can fill the gap.
+
+*对顶尖现有工作进行极限压力测试 (Stress test the state-of-the-art)*
+不要只在那些固定、枯燥的标准基准数据集上跑评测。把它放到多样化、无约束的真实极端样本上测试，观察它究竟是如何崩溃的。这是发现现有工作局限性的绝佳方法，而这正是你的研究所能填补的空白所在。
+
+![Stress test the state-of-the-art](https://pbs.twimg.com/tweet_video_thumb/E8FJiBNXEAMr1Bi.jpg)
+
+---
+
+That's all! I would love to hear about your approaches for coming up with new ideas.
+
+以上就是全部内容！非常期待听到大家在构思新想法时所使用的独特方法。

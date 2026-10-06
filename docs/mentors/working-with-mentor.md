@@ -1,62 +1,88 @@
-# 如何高效地与导师做科研？ (How to work with my mentors effectively?)
+# How to do research with my mentors effectively? / 如何高效与导师开展学术科研？
 
 > 原文作者：Jia-Bin Huang ([@jbhuang0604](https://x.com/jbhuang0604))  
-> 原始推文：[https://twitter.com/jbhuang0604/status/1418407079077842944](https://twitter.com/jbhuang0604/status/1418407079077842944)
+> 原始链接：[https://twitter.com/jbhuang0604/status/1418407079077842944](https://twitter.com/jbhuang0604/status/1418407079077842944)
 
 ---
 
-在我的开放答疑时间（open office hours）里，经常有同学问我这个问题。  
-我也一直在不断摸索学习，但希望分享我的拙见能够对大家有所帮助。
+I get this question frequently in my open office hours.  
+I am still learning as well but I hope sharing my ✌💰 may be helpful to some.
 
-核心理念：**帮助他们来帮助你！（Help them help you!）**
+在我的开放答疑时间（Office hours）里，我经常被问到这个问题。  
+我自己也依然在不断摸索学习中，但希望分享我的个人心得能对大家有所帮助。
 
-具体怎么做？请看下面的推特串 🧵
+Key idea: **Help them help you!**  
+How? Check out the tips below. 🧵
 
----
-
-## 高频同步进展 (Frequent update)
-
-与导师建立每周定期组会是非常好的机制。但是，**在平时的一周内不要保持沉默**。没有什么比在上周组会结束 20 分钟后学生就卡壳了、结果整整憋了一周直到下次开会才说更让人感到沮丧的了。
-
-你的导师真心希望你能成功！请帮助他们做到这一点！
+核心思想：**帮助他们来协助你（Help them help you!）**  
+具体怎么做？请看以下建议。🧵
 
 ---
 
-## 管理会议 (Manage meetings)
+## Frequent update / 保持高频同步
 
-- **会前**：一旦拿到结果或拟定好议程就及时同步。给导师留出消化这些信息的时间。
-- **会中**：同步进展。务必预留最后 10 分钟专门探讨下一步行动计划。
-- **会后**：发送总结和具体的执行计划（actionable plan），确保所有人步调一致（on the same page）。
+Setting up weekly meeting with your mentors is great. But, do NOT stay silent during the week. Nothing is more frustrating to learn that the student got stuck 20 mins after the meeting last week in a meeting.
 
----
+与导师确立每周固定的周会非常棒。但是，绝不要在整整一周的时间里保持沉默。没有什么比在开会时才得知“学生在上周开完会 20 分钟后就卡住了”更让人沮丧的了。
 
-## 严格执行计划 (Stick with the plan)
+Your mentors want you to succeed! Help them do so!
 
-一旦制定了大家一致认可的行动计划，请严格遵照计划执行。很多初入门的学生往往会擅自跑偏去搞其他任务。
-
-如果你认为原计划需要修改，请提前与导师沟通并说服他们。
+你的导师由衷希望你取得成功！通过保持信息透明来协助他们做好指导！
 
 ---
 
-## 使用单一演示文稿 (One single slide deck)
+## Manage meetings / 会议管理全流程
 
-将所有的进展、实验结果、图表和讨论统一沉淀在**同一个持续更新的幻灯片（Slide Deck）**中。这样当有人问起两周前的某项结果时，可以避免在组会上耗费 5 分钟手忙脚乱地到处翻找文件。
+Before: send results/agenda whenever they are available. Give your mentors time to digest them.  
+In the meeting: progress update. Reserve the last 10 mins to discuss next steps.  
+After: Send a summary and an actionable plan to keep everyone on the same page.
 
----
-
-## 请不要只说“跑不通” (Pls no "It doesn't work")
-
-可以说类似这样的话：“我已经把问题缩小到步骤 B。在步骤 A 之前一切正常，因为输入 X 确实得到了预期的输出 Y。在这里步骤 B 可以看到它失败了。我已经排除了 W 和 Z 作为原因的可能。”
-
----
-
-## 不要逃避会议 (Do not avoid meetings)
-
-当进展较少或卡在某个环节时，很多学生觉得既然没什么可汇报的，不如干脆取消会议。不对！这是个非常糟糕的想法！  
-把遇到的难题拿到会议上与导师/合作者一起探讨。帮助他们来帮你打破僵局。
+会前：一旦有新结果或议程就提前发送，给导师留出消化理解的时间。  
+会中：同步进展。务必预留最后 10 分钟专门探讨下一步行动计划。  
+会后：发送会议纪要与可执行计划，确保所有人同频一致。
 
 ---
 
-## 不要试图一个人弄明白所有事情 (Don't try figuring everything out yourself)
+## Stick with the plan / 严格遵照既定计划推进
 
-如果你在 Google 上搜索了 15 分钟仍然毫无头绪、不知道该从何入手，请及时向同伴或导师求助。寻求帮助从来不是软弱的表现。
+Once you have an actionable plan that everyone agrees with, please stick with the plan. Quite often junior students may go ahead and work on some other tasks instead.
+
+一旦制定了大家一致认可的可执行计划，请务必坚决遵照执行。很多时候，低年级同学开完会后转头就跑去做其他无关任务了。
+
+If you think the plan should be revised, talk to your mentors and convince them.
+
+如果你认为既定计划需要调整，主动与导师沟通并说服他们。
+
+---
+
+## One single slide deck / 维护唯一的幻灯片母本
+
+Put ALL the progress/results/figures/discussions in one single slide deck. This saves 5 mins in the meeting locating files and trying to retrieve results two weeks ago when someone asks for it.
+
+把所有的进展、结果、图表与讨论记录整合在**唯一的一套幻灯片（Slide deck）**中。这样当有人问起两周前的某项数据时，就能避免在开会时手忙脚乱到处找文件的尴尬。
+
+---
+
+## Pls no "It doesn't work" / 请别只说“跑不通”
+
+"Say sth like: I’ve narrowed down the problem to step B. Until step A, you can see that it works, because you put in X and you get Y out, as we expect. You can see how it fails here at B. I’ve ruled out W and Z as the cause.”  
+(Ref: Bill Freeman, How to Do Research)
+
+试着这样表达：“我已经将问题锁定在步骤 B。在步骤 A 之前一切正常，因为输入 X 得到了符合预期的输出 Y。但在步骤 B 出现了异常现象。我已经排除了 W 和 Z 作为诱因的可能性。”  
+（参考：Bill Freeman 教授《如何做科研》）
+
+---
+
+## Do not avoid meetings / 遇到瓶颈切勿逃避开会
+
+When you make less progress or get stuck somewhere, it feels right to cancel the meeting as you have nothing to report. No! That's a TERRIBLE idea! Discuss the problems with your mentors/collaborators. Help them help you get unstuck.
+
+当进展缓慢或卡在某个难题时，很多人直觉想取消会议，因为觉得自己“没什么可汇报的”。千万不要！这是极其糟糕的做法！主动与导师和合作者深入讨论遇到的障碍，帮助他们协助你打破僵局。
+
+---
+
+## Don't try figuring everything out yourself / 不要试图所有事都一个人死磕
+
+If you spend 15 mins googling and still don't know where to start, please reach out to your peers/mentors. Asking for help is not a sign of weakness.
+
+如果你在 Google 上搜索了 15 分钟依然完全不知道从何入手，请及时向同组同学或导师求助。寻求帮助绝不是软弱的表现。
