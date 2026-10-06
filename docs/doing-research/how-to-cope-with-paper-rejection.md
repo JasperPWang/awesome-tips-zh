@@ -1,38 +1,88 @@
-# 如何应对论文被拒？ (How to cope with paper rejection?)
+# How to cope with paper rejection? / 如何应对论文被拒？
 
 > 原文作者：Jia-Bin Huang ([@jbhuang0604](https://x.com/jbhuang0604))  
 > 原始推文：[https://twitter.com/jbhuang0604/status/1443248831102136333](https://twitter.com/jbhuang0604/status/1443248831102136333)
 
 ---
 
+How to cope with paper rejection?
+
+Rejection SUCKS! It feels awful that months of hard work got dismissed with a few lines of comments. 😩
+
+Here are some tips to help you move forward. 🧵
+
 如何应对论文被拒？
 
-论文被拒是每一位学术研究者不可避免的必修课。不论你发表过多少顶会顶刊，拒稿信永远都会如期而至。  
-分享一些如何调整心态并化被动为主动的经验。🧵
+被拒稿的感觉糟透了！几个月辛勤付出的心血仅仅被几行评语就全盘否决，那种感受令人无比难受。😩
+
+这里有一些帮助你重新整装出发的建议。🧵
 
 ---
 
-### 允许自己情绪低落，但设定倒计时 (24-hour rule)
+*Take a break*
 
-刚收到拒稿通知时，感到沮丧、愤怒是极其自然的。  
-执行“24 小时原则”：在这 24 小时内不要写回信、不要做重大决定，去运动、休息或吃顿好的。  
-等情绪消退后，再以理性的工程师/学者视角重新审视评审意见。
+Don't read the reviews right away if you are emotional.  
+Take a walk, eat good food, hang out with friends, or play video games.  
+Give yourself 24-48 hours to cool down before diving into the reviews.
 
----
+*休息一下 (Take a break)*
 
-### 区分“审稿人的误解”与“论文写作的缺陷”
-
-审稿人没看懂你的工作，最常见的本能反应是“这个审稿人太水了/没仔细读”。  
-但更健康的视角是：**审稿人的误解说明你的论文在阐述上存在歧义或不够直观**。  
-如果连领域内的专业审稿人都读漏了关键点，普通的读者更容易被误导。
+如果你此时情绪剧烈波动，不要立刻去阅读评审意见。  
+去散散步，吃顿美食，和朋友聚聚，或者打打电子游戏。  
+在深入分析评审意见之前，给自己 24-48 小时的时间冷静下来。
 
 ---
 
-### 把评审意见转化为具体的行动清单 (Actionable TODOs)
+*Separate your identity from your paper*
 
-将所有审稿意见拆解为：
-1. 必须补的实验/Ablation
-2. 必须重写的章节或重画的图表
-3. 可以简要澄清的细节
+Your paper got rejected. YOU are not rejected.  
+A paper is just a snapshot of your research progress at a particular moment. It does not define your worth as a researcher.
 
-通过扎实的修改，让下一次投稿的论文质量显著超越上一版！💪
+*将你的自我认同与论文剥离开来 (Separate your identity from your paper)*
+
+被拒的是你的论文，而不是你这个人。  
+一篇论文仅仅代表你在某一特定时刻科研进展的一个切片，它绝不定义你作为一个研究者的全部价值。
+
+---
+
+*Find the constructive feedback*
+
+Reviewers might be harsh or misunderstand your work.  
+Instead of being defensive, ask yourself:  
+"What caused this misunderstanding? How can I write this part more clearly so that even a hurried reviewer won't miss it?"
+
+*寻找建设性的反馈 (Find the constructive feedback)*
+
+审稿人的言辞可能尖酸刻薄，或者完全误解了你的工作。  
+与其本能地开启防御姿态，不如问问自己：  
+“是什么导致了这种误解？我该如何把这部分写得更加清晰直白，让哪怕匆忙阅读的审稿人也不会看漏？”
+
+---
+
+*Make an actionable revision plan*
+
+Categorize the comments into:  
+1⃣ Missing experiments/baselines  
+2⃣ Unclear writing/visualizations  
+3⃣ Valid technical concerns  
+Create a checklist and tackle them one by one.
+
+*制定可执行的修改计划 (Make an actionable revision plan)*
+
+将评审意见分类归纳为：  
+1⃣ 缺失的对比实验/基线  
+2⃣ 阐述不清的文字/可视化  
+3⃣ 合理的技术关切与质疑  
+建立一个核对清单，逐项攻坚解决。
+
+---
+
+*Resubmit and persevere*
+
+Every top researcher has a long list of rejected papers.  
+The only true failure is giving up. Revise it, make it better, and resubmit! 💪
+
+*修改重投并坚持不懈 (Resubmit and persevere)*
+
+每一位顶尖学者都有一份长长的被拒论文清单。  
+唯一的真正失败是彻底放弃。认真修改，让它变得更强，然后重新投稿！💪

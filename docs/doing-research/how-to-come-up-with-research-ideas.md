@@ -1,39 +1,76 @@
-# 如何构思科研想法？ (How to come up with research ideas?)
+# How to come up with research ideas? / 如何构思科研想法？
 
 > 原文作者：Jia-Bin Huang ([@jbhuang0604](https://x.com/jbhuang0604))  
 > 原始推文：[https://twitter.com/jbhuang0604/status/1423499757591400448](https://twitter.com/jbhuang0604/status/1423499757591400448)
 
 ---
 
+How to come up with research ideas?
+
+Excited about starting doing research but have no idea where to start? 🤔
+
+Here are some strategies I found helpful for brainstorming new research directions. 🧵
+
 如何构思科研想法？
 
-很多学生常问：“好点子到底是从哪里来的？”科研构思并不是凭空等待灵感降临，它是一门可以刻意练习的技能。分享一些启发思考的经典路径。🧵
+满怀热情想要开启科研，却完全不知道从何入手？🤔
+
+分享一些我在头脑风暴构思全新科研方向时认为很有用的策略。🧵
 
 ---
 
-### 挑战现有工作的显式与隐式假设 (Challenge assumptions)
+*Challenge assumptions*
 
-每一篇已有工作都建立在特定假设之上：
-- “假设光照是固定的” -> 如果光照剧烈变化呢？
-- “假设场景是静态的” -> 如果物体在运动呢？
-- “假设有完全配对的数据” -> 如果没有配对监督呢？
+Every existing paper makes some assumptions.  
+What if you relax or challenge those assumptions?  
+- Static scene ➡️ Dynamic scene?  
+- Supervised ➡️ Unsupervised / Self-supervised?  
+- Rigid ➡️ Non-rigid?
 
-挑战一个广为接受的假设，往往就能开辟出一个全新课题。
+*挑战前置假设 (Challenge assumptions)*
 
----
-
-### 借用临近领域的成熟解法 (Import solutions from adjacent fields)
-
-A 领域里的常见工具，很可能是 B 领域尚未尝试过的利器。  
-多去听听临近学科或不同赛道的讲座，看看他们如何解决类似数学结构的问题。
-
----
-
-### 关注失败案例与现实痛点 (Analyze failure modes)
-
-已有 SOTA 论文里报喜不报忧，但在附录或开源仓库的 Issue 区里，往往隐藏着它们崩溃的真实场景。  
-从这些失败案例出发，直接针对其短板设计新机制。
+每一篇已有的论文都建立在某些前置假设之上。  
+如果你放宽或直接推翻这些假设会发生什么？  
+- 静态场景 ➡️ 动态场景？  
+- 有监督 ➡️ 无监督 / 自监督？  
+- 刚性物体 ➡️ 非刚性形变？
 
 ---
 
-好点子往往产生于持续的实践与批判性反思之中。💡
+*Import ideas from adjacent fields*
+
+A well-known technique in one domain (e.g., graphics, robotics, NLP) might be completely novel and effective in another domain (e.g., vision, medical imaging).  
+Talk to people outside your subfield!
+
+*借用临近领域的成熟思想 (Import ideas from adjacent fields)*
+
+在某个领域（如图形学、机器人、自然语言处理）里广为人知的技术，搬到另一个领域（如计算机视觉、医学成像）可能就是极具突破性的全新思路。  
+多去和非本赛道的学者交流！
+
+---
+
+*Look at failure cases*
+
+Don't just look at the cherry-picked success cases in papers.  
+Download the code, run it on challenging inputs, and see WHERE and WHY it fails.  
+Those failure cases are fertile ground for new research ideas.
+
+*深入观察失败案例 (Look at failure cases)*
+
+不要只看论文里精心挑选的成功案例。  
+下载开源代码，在更具挑战性的输入上跑一跑，看看它到底在**什么场景下**会崩溃、以及**为什么**崩溃。  
+那些失败案例正是孕育新课题的最肥沃土壤。
+
+---
+
+*Connect the dots*
+
+Combine two orthogonal methods that have complementary strengths.  
+Method A is fast but inaccurate; Method B is accurate but slow.  
+Can you design a hybrid framework that gets the best of both worlds?
+
+*跨界串联 (Connect the dots)*
+
+将两种具有互补优势的正交方法结合起来。  
+方法 A 速度飞快但不精确；方法 B 极其精准但速度缓慢。  
+你是否能够设计一个混合框架，兼收两者的最大优势？

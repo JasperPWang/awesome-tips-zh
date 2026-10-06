@@ -1,18 +1,31 @@
-# 如何高效地与导师开会？ (How to meet with your advisor?)
+# How to meet with your advisor? / 如何高效地与导师开会？
 
 > 原文作者：Jia-Bin Huang ([@jbhuang0604](https://x.com/jbhuang0604))  
 > 原始推文：[https://twitter.com/jbhuang0604/status/1653614931202195458](https://twitter.com/jbhuang0604/status/1653614931202195458)
 
 ---
 
+How to meet with your advisors/mentors?
+
+If you are a grad student, having effective regular meetings with advisors or mentors is absolutely crucial for your success!
+
+Here are some tips on how to make the most of it! 🧵
+
 如何与你的导师/指导者开会？
 
-如果你是一名研究生，与导师保持高效定期的会议对于取得成功而言绝对至关重要！  
+如果你是一名研究生，与导师保持高效定期的会议对于取得成功而言绝对至关重要！
+
 这里有一些关于如何最大化利用会议效果的建议！🧵
 
 ---
 
-### 汇报结果 (Present results)
+*Present results*
+
+❌ Collect and present the results you got in the last week? Terrible idea! 😱  
+Your advisor sees your results for the first time in the meeting? It means they don't have time to understand and think about them.  
+✅ Share and discuss results async FREQUENTLY.
+
+*汇报结果 (Present results)*
 
 ❌ 把你上周拿到的所有结果堆在一起在会上展示？糟糕透顶的主意！😱  
 如果你的导师在开会时才第一次看到你的实验结果，这意味着他们根本没有充裕的时间去理解和深入思考这些结果。  
@@ -20,21 +33,41 @@
 
 ---
 
-### 制定会议议程 (Make an agenda)
+*Make an agenda*
+
+❌ Dive into technical details too quickly.  
+✅ Make an agenda. Manage the meeting to ensure you cover all the topics you want to discuss.
+
+*制定会议议程 (Make an agenda)*
 
 ❌ 过快、过早地扎进微观的技术细节中。  
 ✅ 制定明确的会议议程。主动把控会议进程，确保覆盖所有你想讨论的核心议题。
 
 ---
 
-### 从总结开场 (Start with a summary)
+*Start with a summary*
+
+❌ "Look at this table full of numbers."  
+✅ "Last week, we agreed to examine hypotheses A and B. I will show my experiments later. In sum, ..."
+
+*从总结开场 (Start with a summary)*
 
 ❌ “看这个排满数字的表格。”  
 ✅ “上周，我们达成一致去检验假设 A 和假设 B。稍后我会展示具体的实验细节。总的来说……”
 
 ---
 
-### 解读你的结果 (Interpret your results)
+*Interpret your results*
+
+❌ "Here are the results. Look at this table."  
+✅ Contextualize your results.  
+• What did you do?  
+• Why did you do it?  
+• How did you do it?  
+• What did you find?  
+• Does it make sense (match your expectation)?
+
+*解读你的结果 (Interpret your results)*
 
 ❌ “这是结果，看这张表吧。”  
 ✅ 为你的结果提供充分的上下文：  
@@ -42,23 +75,39 @@
 • 你为什么做它？  
 • 你是怎么做的？  
 • 你发现了什么？  
-• 它是否合乎常理（是否符合你的预期）？  
+• 它是否合乎常理（是否符合你的预期）？
 
 ---
 
-### 主动提出下一步行动计划 (Propose next steps)
+*Propose next steps*
+
+❌ "That's all my progress. What do you suggest to do next?"  
+✅ "That's all my progress. Based on what we see in the results, here are the prioritized tasks A, B, C (and why)."
+
+*主动提出下一步行动计划 (Propose next steps)*
 
 ❌ “这就是我的所有进展。您建议我下一步做什么？”  
 ✅ “这就是我的所有进展。基于我们在结果中看到的现象，这是经过优先级排序的任务 A、B、C（以及为什么这么排）。”
 
 ---
 
-### 会后总结纪要 (Summarize your meeting)
+*Summarize your meeting*
+
+❌ "Memorize" the discussions in the meeting without note.  
+✅ Summarize the meeting and the next steps mutually agreed on. Send an email/post on slack right away.
+
+*会后总结纪要 (Summarize your meeting)*
 
 ❌ 开会不做笔记，纯靠“死记硬背”会议讨论。  
 ✅ 梳理总结会议要点以及双方一致同意的下一步行动计划。会后立即发送邮件或在 Slack 上发布同步。
 
 ---
+
+Happy meetings!  
+If you like this, please like & share the thread for the Twitter algorithm!  
+https://twitter.com/jbhuang0604/status/1653614931202195458  
+I used to be stressed about the meeting with my advisor as a student. Now I'm still learning how to run more effective meetings.  
+What's your favorite advice?
 
 祝开会顺利！  
 如果你喜欢这个分享，请为推特算法点赞并转发！  

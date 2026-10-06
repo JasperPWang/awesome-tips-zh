@@ -1,32 +1,46 @@
-# 如何做到清晰高效的学术沟通？ (How to communicate clearly?)
+# How to communicate clearly? / 如何做到清晰高效的学术沟通？
 
 > 原文作者：Jia-Bin Huang ([@jbhuang0604](https://x.com/jbhuang0604))  
 > 原始推文：[https://twitter.com/jbhuang0604/status/1520615196498214913](https://twitter.com/jbhuang0604/status/1520615196498214913)
 
 ---
 
+How to communicate clearly?
+
+Majority of our time goes into emails, slack messages, and meetings. Clear communication saves everyone's time and prevents misunderstandings.
+
+Some principles for clear communication 👇
+
 如何做到清晰高效的学术沟通？
 
-沟通障碍往往源于“知识的诅咒”（Curse of Knowledge）——我们总误以为听众了解我们脑海中的所有背景细节。  
-分享清晰表达的底层法则。🧵
+我们绝大部分的时间都耗费在邮件、Slack 消息和会议之中。清晰的沟通能够节省所有人的时间并杜绝误解。
+
+分享清晰沟通的核心原则。👇
 
 ---
 
-### 1. 结论先行 (BLUF - Bottom Line Up Front)
+*Bottom Line Up Front (BLUF)*  
+State the key conclusion or your primary request in the very first sentence. Don't bury the lead!
 
-在邮件、消息或对话的第一句话就亮出核心结论或核心请求。  
-不要铺陈了三段背景后才在第四段说明你的意图。
-
----
-
-### 2. 明确责任与时间节点 (Clear ownership & deadline)
-
-在团队协作沟通中，避免含糊其辞的“大家有空看一下”。  
-明确标注：@某某同学，请在周五下午 5 点前审阅章节 3。
+*结论先行 (Bottom Line Up Front)*  
+在第一句话就直接亮出核心结论或最主要的诉求。切忌把关键重点埋在段落最深处！
 
 ---
 
-### 3. 多用编号与列表，少用大段长文 (Lists over walls of text)
+*Action-Oriented*  
+Make it unambiguous what you need from the other person:  
+• "FYI only - no action needed"  
+• "Please review section 2 by Friday 5pm"
 
-人类大脑处理结构化条目的速度远快于大段杂糅文本。  
-遇到多项事情，果断使用有序列表（1, 2, 3）。
+*明确行动诉求 (Action-Oriented)*  
+清晰明确地指出你期望对方做什么：  
+• “仅供知悉 - 无需回复操作”  
+• “请在周五下午 5 点前审阅章节 2”
+
+---
+
+*Use Formatting*  
+Break long paragraphs into bullet points, bold key terms, and keep sentences crisp.
+
+*善用排版格式 (Use Formatting)*  
+将长篇大论拆解为项目符号列表，加粗核心关键词，并保持句子短小凝练。
