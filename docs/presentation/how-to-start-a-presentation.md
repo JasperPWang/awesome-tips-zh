@@ -25,8 +25,6 @@ How to avoid this? Here is a simple template. 🧵
 ❌“大家好，我叫……，我是来自……的……，我的研究方向是……，我很高兴来到这里。今天我要讲的是幻灯片上的这个标题。”
 ✅ 用一个引人入胜的故事、一张震撼的图片、一组出人意料的统计数据、一句名人名言、一个发人深省的问题、一次现场听众投票或一个小猜谜游戏来拉开序幕。
 
-![Hook](https://pbs.twimg.com/ext_tw_video_thumb/1548866994237313024/pu/img/qOgvMRX8MaMOaYQf.jpg)
-
 ---
 
 *Transition*
@@ -41,8 +39,6 @@ Once you got everyone's attention with your hook, smoothly transit to the topic 
 “我为什么要特意展示这张图片？”
 “我看到刚才大部分人都举手了，但实际上……”
 
-![Transition](https://pbs.twimg.com/ext_tw_video_thumb/1548876716705185793/pu/img/cN2-V0FWZMU3XeN0.jpg)
-
 ---
 
 *Preview*
@@ -55,8 +51,6 @@ https://twitter.com/jbhuang0604/status/1509033327981965313
 关于如何组织演讲架构的更多建议：
 https://twitter.com/jbhuang0604/status/1509033327981965313
 
-![Preview](https://pbs.twimg.com/tweet_video_thumb/FX68niaWQAAsmQt.jpg)
-
 ---
 
 *Benefit for your audience*
@@ -66,8 +60,6 @@ What questions will you answer? What will they learn? How will your talk benefit
 *明确听众能获得什么收益 (Benefit for your audience)*
 说服你的听众：他们为什么要拿出人生中无法倒流的宝贵 40 分钟来听你的报告？
 你将回答什么核心问题？他们能学到什么新认知？你的演讲能为他们带来什么实际收获？
-
-![Benefit for your audience](https://pbs.twimg.com/tweet_video_thumb/FX68oAiX0AEGJGd.jpg)
 
 ---
 

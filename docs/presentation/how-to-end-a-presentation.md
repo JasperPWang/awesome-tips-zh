@@ -27,8 +27,6 @@ Remember that your audience's memory buffer is very limited (typically no more t
 请记住，听众的即时记忆容量极为有限（通常不会超过 3 个关键短语）。😵‍💫
 👉 用视觉化的方式呈现！保持高度凝练！
 
-![Look back](https://pbs.twimg.com/tweet_video_thumb/FYKPieaXwAAfGzV.jpg)
-
 ---
 
 *Look forward*
@@ -45,8 +43,6 @@ Answer the NOW WHAT question for your audience.
 ❓他们该如何将你展示的这套酷炫方法应用到自己的研究中？
 👉 让建议具备可操作性！
 
-![Look forward](https://pbs.twimg.com/tweet_video_thumb/FYKIijBXoAIZyCG.jpg)
-
 ---
 
 *Give credits*
@@ -59,8 +55,6 @@ Credits are NOT like money. Giving others credits does not make you have less cr
 致谢和声誉（Credits）绝不像金钱，大方认可他人的贡献并不会让你自己的功劳减少分毫。
 👉 保持慷慨大度！
 
-![Give credits](https://pbs.twimg.com/tweet_video_thumb/FYKPjYIWIAA6WtY.jpg)
-
 ---
 
 *End with summary, not "thank-you slide"*
@@ -72,8 +66,6 @@ Do not waste it on showing a meaningless "thank you slide".
 将总结概括页作为你的最后一张幻灯片。在接下来的 5 分钟问答（Q&A）环节中，这张幻灯片会一直停留在屏幕上，帮助听众对照提问。
 切勿把这个黄金展示位浪费在一张空洞无物的“Thank You”页面上。
 👉 让最后一页承载丰富信息！
-
-![End with summary](https://pbs.twimg.com/tweet_video_thumb/FYKPjymXkAAZMJj.jpg)
 
 ---
 
@@ -93,4 +85,3 @@ Good luck, and go give an awesome talk!
 4⃣ 总结页定格 (End with summary)
 祝你好运，去呈现一场无与伦比的精彩演讲吧！
 
-![Summary](https://pbs.twimg.com/tweet_video_thumb/FYKPkOPXEAES6Ew.jpg)

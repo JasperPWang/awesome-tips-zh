@@ -29,8 +29,6 @@ Repeating and summarizing the key questions help
 3⃣ 让全场其他听众也能听清楚这个问题是什么；
 4⃣ 为你自己争取宝贵的缓冲思考时间以组织答案。
 
-![Reframe question](https://pbs.twimg.com/tweet_video_thumb/FY9wZ9VXkAY_yUN.jpg)
-
 ---
 
 *Respond the question concisely*
@@ -44,8 +42,6 @@ When you
 当你：
 - 胸有成竹底气十足 👉 简洁精准作答。
 - 确实不知道答案 👉 大方坦承目前未知，并表示会后跟进探讨。
-
-![Respond concisely](https://pbs.twimg.com/tweet_video_thumb/FY9waZYX0AQ83qj.jpg)
 
 ---
 
@@ -67,8 +63,6 @@ Schmidhuber-based questions:
 施密德胡伯式“这工作别人早就做过”式提问（Schmidhuber-style questions）：
 👉 “我们工作的核心不同之处在于……”
 
-![Manage your pace](https://pbs.twimg.com/tweet_video_thumb/FY9wa3nX0AAWKJf.jpg)
-
 ---
 
 *Check if your audience is following along*
@@ -85,8 +79,6 @@ Instead,
 相反，应当尝试：
 ✅ “这里我想先征集两个针对这部分的提问，有哪位愿意先提吗？”
 
-![Check audience](https://pbs.twimg.com/tweet_video_thumb/FY9wdpTWYAEddLa.jpg)
-
 ---
 
 *Anticipate and provide questions*
@@ -100,8 +92,6 @@ It helps them ask good questions and helps you respond well. 😎
 学术会议演讲的高阶秘籍：
 👉 提前为主持人（Session Chair）准备一到两个优质问题。
 这能帮主持人免于冷场的尴尬，也能让你在台上应对自如。😎
-
-![Anticipate questions](https://pbs.twimg.com/tweet_video_thumb/FY9weHjX0AId0T6.jpg)
 
 ---
 

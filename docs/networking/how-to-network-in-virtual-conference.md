@@ -23,8 +23,6 @@ You may find many people are incredibly approachable.
 尽早查阅会议论文列表、研讨会（Workshops）和社交日程。标出你真正渴望结识的学者，并主动创造机会（发送套磁信、参加海报交流、提问互动）。
 你会发现许多学者其实令人难以置信地平易近人。
 
-![Establish your goals](https://pbs.twimg.com/tweet_video_thumb/FBOvBtdXsAMuQo-.jpg)
-
 ---
 
 *Attend zoom poster sessions*
@@ -34,8 +32,6 @@ Oh, and please turn on your camera! It's not THAT awkward (maybe just a bit).
 *参加 Zoom 海报研讨环节 (Attend zoom poster sessions)*
 不同于线下会议中需要费力在人群中拥挤，Zoom 海报环节是结识志同道合者绝佳的窗口。
 另外，请务必打开摄像头！它其实并没有那么尴尬（可能只有一点点）。
-
-![Attend zoom poster sessions](https://pbs.twimg.com/tweet_video_thumb/FBOvCMjXIAQD66x.jpg)
 
 ---
 
@@ -55,8 +51,6 @@ Homework assignment for my students attending a conference: Send me a list of 10
 *把锅甩给导师 (Blame your advisor)*
 我给我去参加学术会议的学生布置的作业：每天发给我一份包含 10 个他们之前不认识的人的名单（姓名 / 单位 / 研究兴趣）。这是你主动去结识新人的极佳借口（“为了交导师布置的作业”）。
 
-![Blame your advisor](https://pbs.twimg.com/tweet_video_thumb/FBOvCxbWEAIvU83.jpg)
-
 ---
 
 *Sharing interesting contents with others*
@@ -64,8 +58,6 @@ Sharing papers you like, talks you found inspiring, and quotes you found insight
 
 *与他人分享有趣的内容 (Sharing interesting contents with others)*
 分享你喜欢的论文、让你深受启发的演讲，以及你觉得富有洞见的金句。
-
-![Sharing interesting contents](https://pbs.twimg.com/tweet_video_thumb/FBOvDN-WYAA2JK7.jpg)
 
 ---
 
@@ -75,8 +67,6 @@ Send a short follow-up email could go a long way.
 *会后跟进新结识的人脉 (Follow-up with your new connections)*
 发送一封简短的会后跟进邮件，能带来深远的影响。
 
-![Follow-up](https://pbs.twimg.com/tweet_video_thumb/FBOvDqnXsAAufoW.jpg)
-
 ---
 
 *Be a decent human being*
@@ -84,8 +74,6 @@ Don't discriminate, harass, and retaliate. It's really not that hard...
 
 *做一个得体正直的人 (Be a decent human being)*
 不要歧视、不要骚扰、不要打击报复。这真的没有那么难……
-
-![Be a decent human being](https://pbs.twimg.com/tweet_video_thumb/FBOvEXDXMAcGyy8.jpg)
 
 ---
 
@@ -95,4 +83,3 @@ The best way to deepen the connection is to explore collaboration.
 *探讨合作可能 (Explore collaboration)*
 加深同行联系的最佳方式，就是去探索潜在的合作机会。
 
-![Explore collaboration](https://pbs.twimg.com/tweet_video_thumb/FBO13sVXoAIZJa8.jpg)

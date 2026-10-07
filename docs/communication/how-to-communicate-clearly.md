@@ -25,8 +25,6 @@ What's your key point? Please don't tell a convoluted story that graaaadually le
 你的核心论点是什么？求求大家千万别讲一个九曲十八弯的长篇大论才慢慢引出你的核心要点。没有人有那个闲工夫去听！
 👉 提炼出你的核心结论，开门见山直接放在最前面。
 
-![What](https://pbs.twimg.com/tweet_video_thumb/FRpPd5CXIAAAJWP.jpg)
-
 ---
 
 *(2) So What?*
@@ -36,8 +34,6 @@ Why is it relevant or important for your work/project/team? Why should your audi
 *(2) 那又如何？有何意义？ (So What?)*
 为什么这件事对你的工作、项目或团队至关重要？你的听众为什么要关心它？🤷‍♂️🤷‍♀️
 👉 明确阐述它背后的深层原因与重要影响。
-
-![So What](https://pbs.twimg.com/tweet_video_thumb/FRpPeVFXoAA1Q-R.jpg)
 
 ---
 
@@ -50,8 +46,6 @@ e.g., Set up another meeting? Ask for feedback? Outline a plan for a new task?
 下一步具有“可执行性”的具体步骤是什么？
 例如：安排下一次讨论会？征求明确意见？列出新任务的排期计划？
 👉 发出明确具体的行动号召！
-
-![Now What](https://pbs.twimg.com/tweet_video_thumb/FRpPeyhXwAIJPr9.jpg)
 
 ---
 

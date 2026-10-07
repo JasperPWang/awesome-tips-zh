@@ -21,8 +21,6 @@ Rejection hurts, literally. Rejection activates the same brain regions as we are
 *难过是很正常的 (It’s okay to be upset)*
 被拒真的会让人心痛。字面意义上的——被拒会激活与身体受到物理创伤时相同的大脑区域。所以感到沮丧难过完全是正常的。去和朋友、实验室同伴或者导师聊一聊。休息一天，充好电再回来。
 
-![It's okay to be upset](https://pbs.twimg.com/tweet_video_thumb/FAdzKt8XoAsvP-G.jpg)
-
 ---
 
 *It’s normal*
@@ -33,8 +31,6 @@ For junior students, a paper rejection can feel like a major setback. It's just 
 对于低年级学生来说，论文被拒可能感觉是一次重大挫折。但这只是整个过程的一部分。
 “砖墙的存在是有原因的。砖墙并不是为了把我们挡在外面。砖墙的存在是为了展示我们到底有多么渴望得到某样东西。” —— 兰迪·鲍许（Randy Pausch）
 
-![It's normal](https://pbs.twimg.com/tweet_video_thumb/FAdzLKXXIA8nL_q.jpg)
-
 ---
 
 *It’s not personal.*
@@ -42,8 +38,6 @@ Don’t take rejection personal. It's about your ideas, implementation, experime
 
 *这绝非针对个人 (It’s not personal)*
 不要把拒稿当成针对你个人的否定。它针对的是你的想法、实现、实验和写作。根据审稿人的反馈梳理出一份待办清单（To-do list），并确保在修改中妥善回应这些关切。
-
-![It's not personal](https://pbs.twimg.com/ext_tw_video_thumb/1443243222197735428/pu/img/jtHIoz8SZWiD3dOd.jpg)
 
 ---
 
@@ -67,8 +61,6 @@ https://jbhuang0604.github.io/Huang_CV_Failures.pdf
 示例：
 https://jbhuang0604.github.io/Huang_CV_Failures.pdf
 
-![Maintain a CV of failures](https://pbs.twimg.com/tweet_video_thumb/FAdzNbJXoAIzzga.jpg)
-
 ---
 
 *Celebrate every little success along the way*
@@ -77,4 +69,3 @@ Celebrating small wins keeps up your motivation while pursuing your goals (whate
 *庆祝沿途的每一个小成功 (Celebrate every little success along the way)*
 在追求目标的过程中（无论目标是什么），为每一个小小的阶段性胜利庆祝，能让你持续保持充沛的动力。尽可能让你在这段旅程中收获乐趣。
 
-![Celebrate every little success along the way](https://pbs.twimg.com/tweet_video_thumb/FAdzOA_WQAQ0cxR.jpg)

@@ -41,8 +41,6 @@ For example, NeRF sounds waaaaaay cooler than NRF..
 让人们能够轻松记住并在口头中引用你的工作。正如图灵奖得主大卫·帕特森（David Patterson）所说：**元音至关重要**。
 例如，NeRF 念起来要比干瘪的 NRF 酷得多得多！
 
-![Acronym](https://pbs.twimg.com/ext_tw_video_thumb/1379296538053201924/pu/img/ERxOXxePVSK7PSY6.jpg)
-
 ---
 
 *Result video*
@@ -148,8 +146,6 @@ When sharing on social media or other sites (e.g., Twitter, YouTube, HackerNews,
 *积极互动交流 (Engagement)*
 在社交媒体或社区论坛（如 Twitter、YouTube、HackerNews、Reddit 等）分享成果时，积极与在评论区留言的人互动，哪怕偶尔会遇到怀有恶意的苛刻言论。日积月累，这些互动者将成为你在学术界最坚实的同盟支持者。
 
-![Engagement](https://pbs.twimg.com/tweet_video_thumb/EyUMMLlXAAUcVCR.jpg)
-
 ---
 
 *Hyperlinks*
@@ -157,8 +153,6 @@ Make sure every page has hyperlinks to every other pages. For examples, add link
 
 *构建全方位的超链接互联 (Hyperlinks)*
 确保你的每一个页面都拥有通往其他所有关联页面的超链接。例如：附上所有作者主页链接、关联项目链接、GitHub / Colab、数据集地址、视频链接与补充材料等。让访客可以通过任意入口无障碍穿梭。
-
-![Hyperlinks](https://pbs.twimg.com/tweet_video_thumb/EyUlGCIWUAActyP.jpg)
 
 ---
 
@@ -179,8 +173,6 @@ cc.gatech.edu/~parikh/citizenship/
 论文的标题应该精准提炼出这项工作最“与众不同（SPECIAL）”的灵魂特征。推荐观看 Jitendra Malik 教授关于如何为论文命名的经典演讲。
 另外，该研讨会的全部报告都极其精彩，强烈推荐观看！
 https://cc.gatech.edu/~parikh/citizenship/
-
-![Paper title](https://pbs.twimg.com/ext_tw_video_thumb/1379652472877223936/pu/img/i-pUGfAXDwKXwN4T.jpg)
 
 ---
 

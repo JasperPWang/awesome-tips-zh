@@ -27,8 +27,6 @@ Your poster should have
 • 没有任何臃肿的长难句
 • 全由精炼的一句话短语（One-liners）构成
 
-![Visual abstract](https://pbs.twimg.com/tweet_video_thumb/E_gsTn9XIAgEj8o.jpg)
-
 ---
 
 *Links to paper/website/data*
@@ -43,8 +41,6 @@ Examples:
 • 在海报顶部显眼位置放置二维码
 • 附带易记的**定制短网址**（没有人记得住一串随机乱码，如 bit.ly/3tPGM3x）
 
-![Links](https://pbs.twimg.com/ext_tw_video_thumb/1438935794362855429/pu/img/9P2-aAvUbzne7MsB.jpg)
-
 ---
 
 *Distill the key messages from your paper*
@@ -53,8 +49,6 @@ Accept the fact that you won't be able to present everything in your paper. Ruth
 *提炼核心信息 (Distill key messages)*
 坦然接受这一事实：你不可能把论文里的每一项内容都搬上海报。无情地删掉所有细枝末节与次要结果。
 
-![Distill messages](https://pbs.twimg.com/tweet_video_thumb/E_gsUkVXsAE-DQA.jpg)
-
 ---
 
 *Align everything*
@@ -62,8 +56,6 @@ Your poster usually have multiple blocks of contents, e.g., problem, key idea, m
 
 *严格对齐所有排版区块 (Align everything)*
 海报通常包含多个内容区块（如问题背景、核心构想、方法流程、实验结果）。在水平和垂直方向严格对齐所有板块，使整张海报呈现出视觉上的平衡与舒适。
-
-![Align everything](https://pbs.twimg.com/tweet_video_thumb/E_gsVENXsAU4zq6.jpg)
 
 ---
 
@@ -74,8 +66,6 @@ Simplify, visualize the key results. Replace numbered reference citations with [
 *参考文献引用 (References)*
 不要机械地复制粘贴论文中的大型数字表格。在海报前没有人知道 [14]、[42]、[57] 对应哪篇论文。
 精简并视觉化核心结果。将数字序号引用替换为具象的 [作者-会议-年份] 格式。
-
-![References](https://pbs.twimg.com/tweet_video_thumb/E_gsVkdXEAk1u7C.jpg)
 
 ---
 
@@ -93,8 +83,6 @@ This is relevant only for physical conferences. When you have crowd in front you
 *核心信息置顶 (Important information on the top)*
 这主要针对线下实体学术会议。当你的海报前围了一群人时，外围的人通常只能看到海报的上半部分。格外珍视并用好海报顶部的黄金展示区域。
 
-![Information on top](https://pbs.twimg.com/tweet_video_thumb/E_gsWc9X0AgZ9zv.jpg)
-
 ---
 
 *Scripting*
@@ -103,4 +91,3 @@ Write down your 1-2 mins elevator pitch so you can present the gist of work quic
 *提前撰写讲解脚本 (Scripting)*
 准备好 1-2 分钟的“电梯演讲（Elevator Pitch）”脚本，以便快速清晰地阐述工作精髓。听一段冗长混乱的海报讲解非常折磨人（而且听众往往还会因为不好意思中途打断你离开而感到尴尬）。
 
-![Scripting](https://pbs.twimg.com/tweet_video_thumb/E_gsXEeWYAoRtQ-.jpg)

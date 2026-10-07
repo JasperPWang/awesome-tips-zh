@@ -27,8 +27,6 @@ Plz treat your mentors as goldfishes 🐟. Remind them WHY you did a particular 
 
 请把你的导师当成金鱼 🐟（记忆只有几秒）。提醒他们你**为什么**要做某个特定的实验，或者**为什么**要实现某个特定的功能。这将为他们提供必要的上下文，帮助他们理解分析实验结果并把控你的研究方向。
 
-![Design](https://pbs.twimg.com/tweet_video_thumb/FCtv3OtXoAECnFd.jpg)
-
 ---
 
 *Hypothesis: What do we expect to see?*
@@ -38,8 +36,6 @@ Before showing your results, comment on what should have happened (if everything
 *假设：我们期望看到什么？*
 
 在展示你的结果之前，先说明一下（如果一切都正确的话）原本应该发生什么？
-
-![Hypothesis](https://pbs.twimg.com/tweet_video_thumb/FCtv3r7XEAEJCBJ.jpg)
 
 ---
 
@@ -51,8 +47,6 @@ Show the (failed) results. Don't just say "It doesn't work." Describe HOW it fai
 
 展示那些（失败的）结果。不要仅仅说“它跑不通”。具体描述它是**如何**失败的。
 
-![Observation](https://pbs.twimg.com/tweet_video_thumb/FCtv4dRWYAAigiC.jpg)
-
 ---
 
 *Interpretation: Is this expected/working?*
@@ -62,8 +56,6 @@ After showing your results, comment on how do the results align with or deviate 
 *解读：这符合预期吗/起作用了吗？*
 
 展示结果之后，点评分析这些结果是如何符合你的预期，或者如何偏离你的预期的。
-
-![Interpretation](https://pbs.twimg.com/tweet_video_thumb/FCtv5CJXEAEl5tK.jpg)
 
 ---
 
@@ -75,8 +67,6 @@ Seeing the results with a good visualization helps deepen our understanding and 
 
 通过良好的可视化来观察结果，有助于深化我们的理解并发现潜在的问题。
 
-![Visualization](https://pbs.twimg.com/tweet_video_thumb/FCtv5tEXsAUyouc.jpg)
-
 ---
 
 *Actionable next steps: What steps would you do?*
@@ -87,4 +77,3 @@ Remember to proactively propose the next steps so that we can make progress on t
 
 记得主动提出下一步计划，以便推进项目进展。请记住，你是这个项目的**核心驱动者（DRIVER）**。不要只是被动等待指令。
 
-![Actionable next steps](https://pbs.twimg.com/tweet_video_thumb/FCtv6KRXIAETXuq.jpg)

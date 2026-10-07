@@ -34,8 +34,6 @@ Not sure if you love doing research yet? Then why are you applying?
 不要把过多精力耗费在靠刷水课拉高 GPA，或者死磕滑稽的 GRE 考试成绩上。展示你做好前沿科研的真实潜力！
 还不确定自己是否真正热爱做科研？那你究竟为什么要申请博士呢？
 
-![It's all about research](https://pbs.twimg.com/tweet_video_thumb/E8dYTHaXMA81E_i.jpg)
-
 ---
 
 *It's all about people*
@@ -46,8 +44,6 @@ https://csrankings.org
 如果一个系里压根没有能带你的导师，你是不可能被录取的。在目标院系中圈定 1-3 位潜在意向导师（并在你的个人陈述 SOP 中明确提及）。计算机专业的申请者请查阅：
 https://csrankings.org
 
-![It's all about people](https://pbs.twimg.com/tweet_video_thumb/E8dYTmCX0AUd8AZ.jpg)
-
 ---
 
 *It's all about your work*
@@ -56,8 +52,6 @@ Come on, it's 2021 already. Make a personal website where you can host all of yo
 *成果说话 (It's all about your work)*
 搭建一个个人学术主页，集中展示你的全部研究项目、个人经历以及写作范本。附上醒目的邮箱，方便招生委员会和意向导师随时与你取得联系。
 
-![It's all about your work](https://pbs.twimg.com/tweet_video_thumb/E8dYUGSXEAshUMX.jpg)
-
 ---
 
 *It's all about being you*
@@ -65,8 +59,6 @@ Don't try pretending to be interested in a field just because it's "hot" or "tre
 
 *做真实的自己 (It's all about being you)*
 不要仅仅因为某个方向“热门”或“潮流”就假装对该领域充满兴趣。突出你的核心优势，但切忌过度包装吹嘘。
-
-![It's all about being you](https://pbs.twimg.com/tweet_video_thumb/E8crT2AXoAA_Cjq.jpg)
 
 ---
 
@@ -80,8 +72,6 @@ What problems/projects have you already done? How do these experiences lead you 
 ->
 你之前具体攻克过哪些难题或做过哪些项目？这些经历是如何引领你走到今天的？在博士阶段你最渴望深耕的具体方向是什么？以及为什么？
 
-![Show, don't tell](https://pbs.twimg.com/tweet_video_thumb/E8dYVKTWYAEFh34.jpg)
-
 ---
 
 *Find letter writers that really know you*
@@ -89,8 +79,6 @@ Avoid Did Well It Class (D.W.I.C) letters at all cost. Give your letter writers 
 
 *寻找真正深入了解你的推荐人 (Find letter writers that really know you)*
 不惜一切代价避免平淡无奇的“该生在课堂上成绩优异（Did Well In Class, DWIC）”推荐信。给推荐人留出充足的时间。与他们当面沟通你的志向与兴趣，附上你的个人陈述，帮助他们为你撰写出最具说服力的强力推荐信。
-
-![Letter writers](https://pbs.twimg.com/tweet_video_thumb/E8dYVnxX0AgUv2q.jpg)
 
 ---
 
@@ -104,8 +92,6 @@ Don't get discouraged if you don't hear back. Faculty are often overwhelmed by e
 撰写清晰、格式规范且高度定制化的邮件。千篇一律的通用模板邮件一眼就会被识破。
 如果没有收到回信切勿气馁，教授们往往被海量邮件淹没。
 
-![Contact potential advisors](https://pbs.twimg.com/tweet_video_thumb/E8dYWFqWYAAEROW.jpg)
-
 ---
 
 *Get on Twitter*
@@ -113,8 +99,6 @@ Here you can find the first-hand information about who the (new) faculty are, wh
 
 *活跃于学术 Twitter (Get on Twitter)*
 在这里你能掌握最前沿的一手资讯：有哪些（新晋）导师、他们在专注研究什么，甚至能提前获知他们未来的重点科研布局（如最新获批的研究基金项目）。
-
-![Get on Twitter](https://pbs.twimg.com/tweet_video_thumb/E8dYWlSXEAcOKL3.jpg)
 
 ---
 

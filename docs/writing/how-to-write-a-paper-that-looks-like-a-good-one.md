@@ -24,8 +24,6 @@ Nothing is more frustrating than not being able to figure out what the paper is 
 *图 1：你具体做了什么？ (Figure 1: WHAT)*
 没有什么比读到第 5 页还完全搞不懂这篇论文到底在干什么更让人暴躁的了。😠 在论文首页最上方放一张极其亮眼的代表图（Teaser figure），直观高亮突出输入、输出和最核心的发现成果。
 
-![Figure 1](https://pbs.twimg.com/tweet_video_thumb/E_LSz6IWYAUxdFo.jpg)
-
 ---
 
 *Figure 2: WHY did you do it?*
@@ -38,8 +36,6 @@ Motivate and justify the key insights/ideas of your work. It is often helpful to
 1) 通过简化的小示例（Toy example）化繁为简；
 2) 结合已有工作的局限性进行鲜明对照。
 
-![Figure 2](https://pbs.twimg.com/tweet_video_thumb/E_LS0YTWUAcarz9.jpg)
-
 ---
 
 *Figure 3: HOW did you do it?*
@@ -47,8 +43,6 @@ Show an *overview* figure on how your method works. Label everything so that it 
 
 *图 3：你是如何做到的？ (Figure 3: HOW)*
 展示一张详尽的方法总览图（Overview figure），解释算法架构如何运转。为各个模块标明公式与章节索引，为整篇论文提供清晰的技术路线图。
-
-![Figure 3](https://pbs.twimg.com/tweet_video_thumb/E_LS03gWEAQLxuw.jpg)
 
 ---
 
@@ -60,8 +54,6 @@ Figures/tables are much easier to understand than reading plain texts. Moving th
 在 LaTeX 的 figure 和 table 环境中添加 `[!t]` 参数，让系统优先将图表置于页面最顶端。为什么？
 图表远比枯燥纯文本更直观易懂。将它们置于页顶有助于读者在快速翻阅时瞬间领悟核心信息。
 
-![Figures to top](https://pbs.twimg.com/tweet_video_thumb/E_LS1VLX0AI121G.jpg)
-
 ---
 
 *Self-contained figure/table caption*
@@ -71,8 +63,6 @@ https://twitter.com/jbhuang0604/status/1279992087497314305
 
 *图表说明文字必须完全自包含 (Self-contained caption)*
 你想就这张图表表达的所有关键信息，直接在标题说明（Caption）里讲清楚！迫使读者在正文密密麻麻的段落里翻找对应解释非常折磨人。
-
-![Self-contained](https://pbs.twimg.com/tweet_video_thumb/E_LS2BHWQAIvWtT.jpg)
 
 ---
 
@@ -88,8 +78,6 @@ All the other descriptions should be within \mathrm
 • Net ➡️ F(\cdot)
 所有描述性词汇一律置于 `\mathrm{...}` 字体中。
 
-![Concise notations](https://pbs.twimg.com/tweet_video_thumb/E_LS2h8WQAMUdLH.jpg)
-
 ---
 
 *Short titles*
@@ -97,8 +85,6 @@ Add titles (e.g., using \paragraph) to your figure/table captions and the main t
 
 *添加小标题 (Short titles)*
 为图表标题说明和正文段落添加醒目的小标题（如使用 `\paragraph{...}`）。这能让整篇论文层次分明、井井有条，大幅提升读者的阅读体验。
-
-![Short titles](https://pbs.twimg.com/tweet_video_thumb/E_LS3OPXEAEtS36.jpg)
 
 ---
 
@@ -116,8 +102,6 @@ Follow simple design principles for making clean a table:
 • 坚决不要任何竖线
 • 文本左对齐，数值居中对齐
 • 使用 multirow / multicol 合并重复信息
-
-![Clean table](https://pbs.twimg.com/tweet_video_thumb/E_LS3ucXMAQeeyJ.jpg)
 
 ---
 
@@ -148,8 +132,6 @@ Any additional tips on making your papers look awesome?
 Opps... I didn't mean "clean a table"... 😄
 
 哎呀……我刚才口误说成了“擦干净桌子”……😄
-
-![Opps](https://pbs.twimg.com/tweet_video_thumb/E_ME_WXWEAMMm7u.jpg)
 
 ---
 

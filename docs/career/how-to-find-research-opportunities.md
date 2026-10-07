@@ -23,8 +23,6 @@ Some tips on approaching potential mentors. 🧵
 ❌ “我非常感兴趣……我想成长……我想积累经验……我有很多过往经历……我、我、我、我、我、我、我！”
 ✅ “这是我能为您的团队带来的贡献。我之所以能做这件事，是因为我在某某领域拥有扎实的经验/技能。”
 
-![Lead with value](https://pbs.twimg.com/tweet_video_thumb/FpTyffoWYAExPv2.jpg)
-
 ---
 
 *Go the extra mile*
@@ -34,8 +32,6 @@ Some tips on approaching potential mentors. 🧵
 *多走一步，展现超常投入 (Go the extra mile)*
 ❌ 给 500 位教授群发通用套磁信：“我觉得您的 X 项目深受启发。”
 ✅ “我跑了您最新项目 X 的开源代码，发现了一些局限性。我认为我们可以尝试从这两个方向来攻克这个难题。”
-
-![Go the extra mile](https://pbs.twimg.com/tweet_video_thumb/FpTygL9WcAIoFtU.jpg)
 
 ---
 
@@ -47,8 +43,6 @@ Some tips on approaching potential mentors. 🧵
 ❌ “我想这学期跟您做科研。我们能否安排一小时的 Zoom 会议，您告诉我有什么项目可以让我做？”
 ✅ “我想攻克 X 问题。附上我前期的初步探索文档与执行计划。请问您能给我一些指导反馈吗？”
 
-![Make it easy to say yes](https://pbs.twimg.com/tweet_video_thumb/FpTygnrWYAM31t7.jpg)
-
 ---
 
 *Show your work (in public)*
@@ -58,8 +52,6 @@ Some tips on approaching potential mentors. 🧵
 *公开展示你的研究成果 (Show your work in public)*
 ❌ 简历上罗列一长串花里胡哨的项目名称列表。
 ✅ 建立一个个人网站，完整记录各个阶段的真实成果（包含开源代码、技术报告、幻灯片、海报、演示视频、论文）。
-
-![Show your work](https://pbs.twimg.com/tweet_video_thumb/FpTyhSpXsAMuyST.jpg)
 
 ---
 
@@ -71,8 +63,6 @@ Some tips on approaching potential mentors. 🧵
 ❌ 混一个 8 周的实习，仅仅为了简历上增加一段“经历”，随后又跳去下一个地方。
 ✅ 踏实努力，完整交付并整理归档你的项目。扎实优秀的工作成果自然会为你带来更多源源不断的机会。
 
-![Do the best work you can](https://pbs.twimg.com/tweet_video_thumb/FpTyh-iXgAAbypJ.jpg)
-
 ---
 
 Hope this helps! And hope everyone gets their dream opportunity to learn and grow.
@@ -81,4 +71,3 @@ Best of luck!
 希望这些建议能有所帮助！祝愿每个人都能获得梦寐以求的科研机会，不断学习成长。
 祝大家好运！
 
-![Best of luck](https://pbs.twimg.com/tweet_video_thumb/FpTyi8JX0AAtNDc.jpg)

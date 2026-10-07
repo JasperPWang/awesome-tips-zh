@@ -25,8 +25,6 @@ Some tips on making the best of attending a conference. 🧵
 • 所有的报告演讲都会录屏上传。
 👉 相比于强迫自己听完每一场报告，更应优先把时间花在结识新朋友上。
 
-![People, Not Papers](https://pbs.twimg.com/tweet_video_thumb/FQ64U1gXoAAKzQx.jpg)
-
 ---
 
 *Go Solo*
@@ -39,8 +37,6 @@ But, you will be a lot less approachable and miss out all the networking opportu
 但是，这样会让外人觉得你很难接近，从而错失所有的结交机会。😱
 👉 给自己预留一些独自活动的时间。
 
-![Go Solo](https://pbs.twimg.com/tweet_video_thumb/FQ64VSLX0AEAga_.jpg)
-
 ---
 
 *Don't Close the Circle*
@@ -52,8 +48,6 @@ Met someone you know? Don't forget to introduce them to your new friends.
 在社交交流环节中，注意你们小组站立的姿态。留出一些物理空隙，让其他人能够自然加入对话。
 遇到了你认识的人？别忘了把他们介绍给你的新朋友。
 👉 为他人搭起沟通的桥梁。
-
-![Don't Close the Circle](https://pbs.twimg.com/tweet_video_thumb/FQ64VuUXIAgHAi_.jpg)
 
 ---
 
@@ -71,8 +65,6 @@ Where?
 • 午餐桌、咖啡排队处、邻座、领伴手礼队伍、出租车排队点、电梯里、洗手间排队处、充电桩旁。
 👉 处处皆是交流机会！
 
-![Leverage Context](https://pbs.twimg.com/tweet_video_thumb/FQ64WMJXIAEncEV.jpg)
-
 ---
 
 *Pre-conference Networking*
@@ -87,8 +79,6 @@ See that dude carrying a poster tube there? It's the best time to network!
 看到那边背着海报筒的同学了吗？这就是打招呼搭话的最佳时机！
 👉 在旅途中自然交流。
 
-![Pre-conference Networking](https://pbs.twimg.com/tweet_video_thumb/FQ64WnaXwAE_JML.jpg)
-
 ---
 
 *Partially Full, Partially Empty*
@@ -98,8 +88,6 @@ Get in the talk/lunch session 5-10 mins early so you can find a partially filled
 *选择半满的座位 (Partially Full, Partially Empty)*
 提前 5-10 分钟到达报告厅或午餐区，找到一个坐了一部分人的位子坐下，然后和身边的邻座聊天。
 👉 不要坐在空无一人的桌子或空荡荡的一整排座位上。
-
-![Partially Full, Partially Empty](https://pbs.twimg.com/tweet_video_thumb/FQ64XHHWQAEd7PX.jpg)
 
 ---
 
@@ -112,8 +100,6 @@ Senior folks: Don't dismiss junior students from less known places. (Still remem
 年轻学者：不要只盯着资深“学术大牛”去认识。
 资深学者：不要轻视来自普通院校的年轻学生。（至今还记得当年自己被无视的糟糕经历……😬）
 👉 你总能从新朋友身上学到全新的东西。
-
-![Be Open](https://pbs.twimg.com/tweet_video_thumb/FQ64XlnX0AowVGM.jpg)
 
 ---
 
@@ -133,8 +119,6 @@ Visual cues telling people NOT to talk with you.
 ❌ 戴着大头戴式耳机或耳塞。
 👉 放下手机和电脑，去认识真实的人！
 
-![Be Approachable](https://pbs.twimg.com/tweet_video_thumb/FQ64YFJWQAA69I6.jpg)
-
 ---
 
 *Exit Cues*
@@ -149,8 +133,6 @@ Visual cues telling people NOT to talk with you.
 3⃣ 碰肘致意：“稍后见！”
 👉 任何对话都会结束，请优雅得体地收尾。
 
-![Exit Cues](https://pbs.twimg.com/tweet_video_thumb/FQ64YkgXoAAXoPn.jpg)
-
 ---
 
 *Follow-up*
@@ -160,8 +142,6 @@ After the conference, don't forget to follow up with the people you meet and tha
 *会后跟进联络 (Follow-up)*
 会议结束后，别忘了给你遇到的人发邮件跟进并表达感谢！这个看似简单的举动能带来极其长远的影响！
 👉 维护并拓展你的人脉网络。
-
-![Follow-up](https://pbs.twimg.com/tweet_video_thumb/FQ64ZDzXIAEBNnx.jpg)
 
 ---
 

@@ -27,8 +27,6 @@ It's *their job*! (They probably have asked for hundreds of letters to get their
 这本就是教授的“职责所在”！（教授自己当年为了拿到教职，可能也请求过成百上千封推荐信。）
 👉 只要这位教授能够对你做出详实具体的评价，大胆开口请求即可！
 
-![It's their job](https://pbs.twimg.com/tweet_video_thumb/FR99TtYXwAA1LLx.jpg)
-
 ---
 
 *Ask Early*
@@ -38,8 +36,6 @@ Writing a letter takes time, a lot of time.
 *尽早提出请求 (Ask Early)*
 写一封高质量的推荐信需要耗费大量时间。
 👉 请确保给教授留出充足的拖延时间（procrastinate）！
-
-![Ask Early](https://pbs.twimg.com/tweet_video_thumb/FR99UJXWQAE34a3.jpg)
 
 ---
 
@@ -53,8 +49,6 @@ Revising a letter is a lot easier.
 而在已有底稿的基础上修改则轻松得多。
 👉 在早期的各类机会中就积极请求推荐信，这样随着时间的推移，教授写你的推荐信会越来越凝练出彩。
 
-![Ask Often](https://pbs.twimg.com/tweet_video_thumb/FR99UnJX0AAuVM7.jpg)
-
 ---
 
 *Ask Specifically*
@@ -67,8 +61,6 @@ Provide all the material (e.g., SOP, CV, your project, due dates).
 主动提供所有配套材料（个人陈述 SOP、简历 CV、项目材料、截止日期清单）。
 👉 让写信人的工作变得更轻松！
 
-![Ask Specifically](https://pbs.twimg.com/tweet_video_thumb/FR99VC8WQAArsGe.jpg)
-
 ---
 
 *Ask for Calibration*
@@ -78,8 +70,6 @@ Many letter writers only write generic descriptions. However, who isn't hard-wor
 *请求提供校准基准 (Ask for Calibration)*
 很多推荐人只会写千篇一律的套话。然而，哪个申请人不努力、不上进、不具备团队合作精神呢？
 👉 确保你的推荐信包含某种形式的横向校准基准（例如：与本校同届学生相比排前 X%、或与往届录取者对比）。
-
-![Ask for Calibration](https://pbs.twimg.com/tweet_video_thumb/FR99VfHX0AEX5oZ.jpg)
 
 ---
 
@@ -93,8 +83,6 @@ Keep track of whether the letters have been submitted.
 时刻追踪系统里的推荐信提交通知。
 👉 帮你的推荐人保持清醒从容！
 
-![Follow Up](https://pbs.twimg.com/tweet_video_thumb/FR99WCpXMAARx8x.jpg)
-
 ---
 
 *Share the News*
@@ -104,8 +92,6 @@ Seeing their mentee winning an award, landing a job, or getting an offer for gra
 *同步申请结果 (Share the News)*
 亲眼见证自己指导的学生斩获大奖、拿到心仪教职或收到顶尖学府 Offer，是为人师表最有成就感的时刻！
 👉 拿到结果后一定要告诉推荐人并表达真挚谢意！
-
-![Share the News](https://pbs.twimg.com/tweet_video_thumb/FR99Wn2WQAIQAxz.jpg)
 
 ---
 

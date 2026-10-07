@@ -29,8 +29,6 @@ Avoid crowding the ball (aka chasing the hottest problem in the field).
 清晰认识你相对于其他人的“不对称优势（unfair advantages）”、学术共同体真正关心的是什么、以及你怎样才能做出最好的贡献。  
 避免扎堆抢球（Avoid crowding the ball，即不要一味追逐当下领域里最热门的问题）。
 
-![Find your position](https://pbs.twimg.com/ext_tw_video_thumb/1628418442075246593/pu/img/A5l6yZsrO7PRCdy_.jpg)
-
 ---
 
 *Identify intrinsic motivation*
@@ -41,8 +39,6 @@ Work on problems and real applications that you genuinely care about.
 
 去研究那些你自己真心关切、真正渴望解决的问题与现实应用。
 
-![Intrinsic motivation](https://pbs.twimg.com/tweet_video_thumb/FpmrbbIX0AAGPJi.jpg)
-
 ---
 
 *Anticipate disruptive technologies*
@@ -52,8 +48,6 @@ Instead of focusing on what everyone is working on NOW, anticipate the major pro
 *预见颠覆性技术 (Anticipate disruptive technologies)*
 
 不要只专注于眼下所有人正在做的事情，而是去预判当颠覆性技术（例如：新传感器、新算法、新模型、新数据集）涌现**之后**，未来将面临哪些重大挑战。
-
-![Disruptive technologies](https://pbs.twimg.com/tweet_video_thumb/Fpmrb41XoAAjW7e.jpg)
 
 ---
 
@@ -67,8 +61,6 @@ At the begging of your project, be an amateur and dream big! Don't be intimidate
 在项目启动之初，像外行一样敢于做大梦！暂时不要被眼下所有的技术挑战吓退。  
 正如金出武雄（Takeo Kanade）教授所言：“像外行一样思考，像专家一样实践（Think like an amateur, do as an expert）”。
 
-![Imagine success](https://pbs.twimg.com/tweet_video_thumb/FpmrchtWAAMkFOc.jpg)
-
 ---
 
 *Validate the idea fast*
@@ -80,8 +72,6 @@ If you fail, fail FAST!
 
 并不是所有的想法都能最终开花结果。设计极小的实验来快速验证你的假设与前置条件。  
 如果要失败，请**快速失败（fail FAST）**！
-
-![Validate fast](https://pbs.twimg.com/tweet_video_thumb/FpmrdU4WAAcd1Ox.jpg)
 
 ---
 

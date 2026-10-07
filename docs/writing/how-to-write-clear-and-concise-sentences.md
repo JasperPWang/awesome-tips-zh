@@ -23,8 +23,6 @@ Using passive voice hides the subject and creates ambiguous, indirect, and wordy
 真正的学术挚友绝不会放任你滥用被动语态！
 被动语态隐匿了动作的施受主体，造就出含糊、拐弯抹角且冗长的句子。事情绝不会自己凭空“被完成”。为你所做的一切负起责任，尽可能使用主动语态（如 We propose... 代替 It is proposed...）。
 
-![Active voice](https://pbs.twimg.com/ext_tw_video_thumb/1437909110645829632/pu/img/sGbycpmfDgzggneX.jpg)
-
 ---
 
 *Statements in positive form*
@@ -41,8 +39,6 @@ did not have much confidence in ➡️ distrusted
 • did not pay any attention to ➡️ ignored
 • did not have much confidence in ➡️ distrusted
 
-![Positive form](https://pbs.twimg.com/tweet_video_thumb/E_SOpdiX0AQ1iLy.jpg)
-
 ---
 
 *Which (non-restrictive) vs. That (restrictive)*
@@ -51,8 +47,6 @@ More on restrictive/non-restrictive adjective clauses:
 
 *区分 which（非限制性）与 that（限制性） (Which vs. That)*
 因为由 which 引导的非限制性从句通常只是补充说明非核心信息，不妨在论文中开展一场“搜寻 which”的专项行动，把冗长的从句果断拆分成更简洁清晰的短句。
-
-![Which vs That](https://pbs.twimg.com/tweet_video_thumb/E_SOp5oWEAUFNCe.jpg)
 
 ---
 
@@ -65,8 +59,6 @@ https://twitter.com/jbhuang0604/status/1279992094577352704?s=20
 不要强迫读者在脑子里费力去做交叉连线题。重构句式，彻底摆脱“分别（respectively）”这种增加心智负担的句式。
 参考示例：
 https://twitter.com/jbhuang0604/status/1279992094577352704?s=20
-
-![Respectively](https://pbs.twimg.com/tweet_video_thumb/E_SOqXOX0AIXmDs.jpg)
 
 ---
 
@@ -88,8 +80,6 @@ disintegrate ➡️ break down
 • constitute ➡️ make up
 • disintegrate ➡️ break down
 
-![Fancy words](https://pbs.twimg.com/tweet_video_thumb/E_SOrKSXIAYpDN1.jpg)
-
 ---
 
 *Needless words*
@@ -110,8 +100,6 @@ the question as to whether or not ➡️ whether
 • this is a subject that ➡️ this subject
 • the question as to whether or not ➡️ whether
 
-![Needless words](https://pbs.twimg.com/tweet_video_thumb/E_SOrnVXsAAQxp5.jpg)
-
 ---
 
 *Remove vague pronoun references*
@@ -121,8 +109,6 @@ Replace these vague pronoun references with SPECIFIC noun or noun phrase.
 *消除含糊不清的代词指代 (Remove vague pronouns)*
 找出并消除论文中所有指代不明的代词（如 that, this, it, these, those）。
 将这些含糊代词替换为“具体的具体名词”或名词短语。
-
-![Vague pronouns](https://pbs.twimg.com/tweet_video_thumb/E_SOsVnXMAIm8Ul.jpg)
 
 ---
 
@@ -138,8 +124,6 @@ Quite a few = Many
 • Few = 几乎没有 / 极少数（强调微不足道）
 • Quite a few = 相当多（很多）
 
-![Few](https://pbs.twimg.com/tweet_video_thumb/E_SOs0MX0AEqSFq.jpg)
-
 ---
 
 *Note that*
@@ -147,8 +131,6 @@ Avoid "Note that" and "It should be noted that." Readers don't like to be freque
 
 *避免“需要注意的是” (Note that)*
 尽量避免使用“Note that”或“It should be noted that”。读者非常讨厌被作者喋喋不休地反复命令“请注意”。
-
-![Note that](https://pbs.twimg.com/tweet_video_thumb/E_SOtSKXMAcBmLD.jpg)
 
 ---
 
@@ -191,8 +173,6 @@ Source: The Elements of Style
 修改后：Few mistakes have been made.
 来源：《英文写作指南》
 
-![Case](https://pbs.twimg.com/tweet_video_thumb/E_TBgHPXIAMMFrE.jpg)
-
 ---
 
 *However*
@@ -202,8 +182,6 @@ When starting with however, it means "in whatever manner/way" or "to whatever de
 *However 的句首用法 (However)*
 在论文中，我们通常把 however 作为“然而/尽管如此”来使用。为了避免歧义，尽量不要直接以 however 开头放在句首。
 因为在句首出现时，however 经常被理解为“无论以何种方式”或“无论到何种程度”。
-
-![However](https://pbs.twimg.com/tweet_video_thumb/E_TBgo-X0AE8Sxv.jpg)
 
 ---
 
@@ -224,4 +202,3 @@ stanford.edu/class/ee267/WIM.html
 • 转折对比：although, however, on the other hand, in contrast
 来源：斯坦福大学 EE267 写作指南
 
-![Transitions](https://pbs.twimg.com/tweet_video_thumb/E_TBhFpXIAow8fJ.jpg)

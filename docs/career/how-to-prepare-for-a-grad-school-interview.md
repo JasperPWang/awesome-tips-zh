@@ -23,8 +23,6 @@ Prepare slides summarizing your work and practice commonly asked questions (e.g.
 有些教授可能会说“这只是随便聊聊”。他们在说谎！他们会在通话过程中认真评估与你的每一次互动，并形成自己的判断。
 准备好总结你过往工作的幻灯片，并演练常见问题（例如：研究经历、未来目标、为什么选择这里）。
 
-![Be prepared](https://pbs.twimg.com/tweet_video_thumb/FJH4bdLWUAAWchI.jpg)
-
 ---
 
 *Express interest*
@@ -33,8 +31,6 @@ Dept. often can only admit a limited number of applicants. So they have to strat
 *表达浓厚兴趣 (Express interest)*
 系里通常只能录取有限数量的申请者，因此他们必须运筹帷幄把录取名额（Offers）发给谁。你所表达的兴趣程度起着关键作用。如果系里觉得你接受录取的概率很低，他们就不会给你发 Offer。
 
-![Express interest](https://pbs.twimg.com/tweet_video_thumb/FJH4b6lXMAA60Zk.jpg)
-
 ---
 
 *Be organized*
@@ -42,8 +38,6 @@ The email correspondences with the faculty send out signals of how organized you
 
 *展现严谨条理 (Be organized)*
 与教授的邮件往来，直接传递出你做事是否有条理的信号。发送简明、清晰、排版得体的邮件。提供几个具体的可用时间段（并主动换算为对方所在的时区），帮助教授更好地管理时间。
-
-![Be organized](https://pbs.twimg.com/tweet_video_thumb/FJH4cYmXoAQE9iO.jpg)
 
 ---
 
@@ -57,8 +51,6 @@ https://drive.google.com/file/d/1o2ZTrU6M_m472dM5L2D_hJm7P0cI1p7p/view
 参考问题清单：
 https://drive.google.com/file/d/1o2ZTrU6M_m472dM5L2D_hJm7P0cI1p7p/view
 
-![Ask questions](https://pbs.twimg.com/tweet_video_thumb/FJH4dFCXsAIN2ij.jpg)
-
 ---
 
 *Be yourself*
@@ -67,4 +59,3 @@ Don't need to freak out. You don't need to change anything or wear formal suit f
 *做真实的自己 (Be yourself)*
 完全不需要惊慌失措。你不需要刻意改变什么，这类面试也无需西装革履。意向导师关心的是了解真正的你以及你的科研潜力。展现出你的本色即可。
 
-![Be yourself](https://pbs.twimg.com/ext_tw_video_thumb/1482238515194777609/pu/img/k9b7gdmQFTBWa-bB.jpg)

@@ -41,8 +41,6 @@ Why?
 为什么？
 👉 因为菜单能为整场汇报提供极其清晰、生动的导航路标。
 
-![Menu](https://pbs.twimg.com/tweet_video_thumb/FPEp0mzWUAcIxd5.jpg)
-
 ---
 
 *Tell them what you are going to say*
@@ -53,8 +51,6 @@ This helps people know where are we heading to.
 呈现所有主菜选项后，高亮突出第一道主菜（别忘了将其他选项弱化置灰）。
 这能让听众时刻清楚知道我们正驶向何方。
 
-![Tell them](https://pbs.twimg.com/tweet_video_thumb/FPEp1EaXMAE_nQD.jpg)
-
 ---
 
 *Say it*
@@ -64,8 +60,6 @@ Here you can use as many slides as you want to introduce the first Entrée.
 *开讲第一部分 (Say it)*
 舞台已经铺就，直接开讲！
 在这里你可以用足够充实的幻灯片来深入介绍第一道主菜的技术细节。
-
-![Say it](https://pbs.twimg.com/tweet_video_thumb/FPEp1f6X0AEjdZl.jpg)
 
 ---
 
@@ -80,8 +74,6 @@ Then repeat the 3-steps.
 ✅ 总结刚才第一部分的结论
 ✅ 阐明为什么接下来需要品尝第二道主菜（记得高亮第二项并置灰其他项）
 随后重复这三步节奏。
-
-![Tell them what you said](https://pbs.twimg.com/tweet_video_thumb/FPEp2PyXoAcwmfC.jpg)
 
 ---
 

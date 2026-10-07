@@ -35,8 +35,6 @@ Your goal of experiments should be to validate/test your research questions.
 许多试图通过实验展现性能提升的学生都搞错了重点。  
 你做实验的目标应该是验证/检验你的研究问题。
 
-![Why](https://pbs.twimg.com/tweet_video_thumb/FturGtWXwAAeBVc.jpg)
-
 ---
 
 *What? 🤔*
@@ -57,8 +55,6 @@ This involves three main steps:
 2⃣ 将其分解为细分的阶段性小步骤（baby steps）  
 3⃣ 设计能够最好回答这些问题的实验
 
-![What](https://pbs.twimg.com/tweet_video_thumb/FturHIQXsAE4R-_.jpg)
-
 ---
 
 *How? 🤔*
@@ -72,8 +68,6 @@ There are no universal answers, but here are some principles I found helpful.
 好了，现在我们了解了“为什么做”和“做什么”，那么“如何做”呢？
 
 虽然没有放之四海皆准的标准答案，但我发现以下几条原则非常有用。
-
-![How](https://pbs.twimg.com/tweet_video_thumb/FturHjmXsAAigej.jpg)
 
 ---
 
@@ -89,8 +83,6 @@ The outcomes of your experiments thus have little value.
 如果你一次改动了多处内容，那么你实际上是在试图验证一个包含多个复杂因素的假说。  
 这样一来，你的实验结果便几乎没有参考价值。
 
-![One thing at a time](https://pbs.twimg.com/tweet_video_thumb/FturIAaXoAMP5a1.jpg)
-
 ---
 
 *Anticipate the results*
@@ -105,8 +97,6 @@ This helps you interpret the outcomes and identify errors.
 如果添加了 X / 去除了 Y / 在 Z 上进行测试，你期望看到什么？  
 这能帮助你理解分析结果，并及时发现错误。
 
-![Anticipate](https://pbs.twimg.com/tweet_video_thumb/FturItDXwAAfYxd.jpg)
-
 ---
 
 *Start with a baseline*
@@ -118,8 +108,6 @@ You will be in trouble later if you don't have a solid baseline first.
 
 通常情况下，做实验是为了观察某种“变化”（无论是正向的还是负向的）。  
 如果没有一个坚实可靠的 Baseline（基线），后续将会面临很大麻烦。
-
-![Baseline](https://pbs.twimg.com/tweet_video_thumb/FturJHWWAAEvdAt.jpg)
 
 ---
 
@@ -135,8 +123,6 @@ hydra.cc
 借助像 Hydra 这样的框架来管理你的实验：  
 hydra.cc
 
-![Document](https://pbs.twimg.com/tweet_video_thumb/FturJzjXsAMPlWk.jpg)
-
 ---
 
 *Two valid design choices? Do both!*
@@ -149,8 +135,6 @@ Me: You don't need to ask me. If both A and B are sensible choices, do BOTH and 
 学生经常会问：“我应该做 A 还是做 B？”  
 我：“你不必问我。如果 A 和 B 都是合情合理的选择，那就两个都做，让实验结果来说话。”
 
-![Do both](https://pbs.twimg.com/tweet_video_thumb/FturKhzXgAEIf7Q.jpg)
-
 ---
 
 *Ask for feedback*
@@ -162,8 +146,6 @@ Don't hesitate to seek help from them!
 
 你的导师/指导者在那里的目的就是帮助你取得成功。  
 遇到困难不要犹豫，主动向他们寻求帮助！
-
-![Ask for feedback](https://pbs.twimg.com/tweet_video_thumb/FturK8gXsAA19Dc.jpg)
 
 ---
 

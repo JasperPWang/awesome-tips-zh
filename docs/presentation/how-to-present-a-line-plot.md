@@ -25,8 +25,6 @@ Let's break it down ... 🧵
 ❌ 一股脑把整张图的所有曲线全放出来，信息量过大让人无法消化。
 ✅ **只展示 X-Y 坐标轴**（此时先不要出现任何曲线！）。阐明你“推测”对纵轴产生影响的关键因素，例如：时间、模型复杂度、数据集规模。
 
-![Step 1](https://pbs.twimg.com/tweet_video_thumb/FOa_kt9XIAgvxWE.jpg)
-
 ---
 
 *Step 2: Describe the Y-axis*
@@ -40,8 +38,6 @@ Tell us ...
 👉 我们测量的到底是什么指标？
 👉 数值是越高越好还是越低越好？
 👉 理论上的完美最优曲线（Oracle curve）应该长成什么样？
-
-![Step 2](https://pbs.twimg.com/tweet_video_thumb/FOa_lM-XsAYZXOw.jpg)
 
 ---
 
@@ -57,8 +53,6 @@ Now that you explain what the plot is about, set the stage by showing the result
 ✅ 经典基线方法（Baseline methods）
 ✅ 现有的主要竞争方法（Competing approaches）
 
-![Step 3](https://pbs.twimg.com/tweet_video_thumb/FOa_lqUXsAAXTr1.jpg)
-
 ---
 
 *Step 4: Reveal*
@@ -66,8 +60,6 @@ Show yourself! Oh I meant show your results!
 
 *第 4 步：揭晓你的成果 (Reveal)*
 闪亮登场！我是说，展示你自己提出的方法的结果！
-
-![Step 4](https://pbs.twimg.com/tweet_video_thumb/FOa_mMZXoAENI_c.jpg)
 
 ---
 
@@ -82,8 +74,6 @@ Examples:
 示例：
 ⏩ （固定纵轴性能）我们的方法达到了相同的准确率，但运行速度快了 100 倍 / 仅使用了 5% 的训练数据。
 ⏩ （固定横轴算力）在相同模型规模下，我们的方法将误差降低了 30%。
-
-![Step 5](https://pbs.twimg.com/tweet_video_thumb/FOa_m9AXMAIVp-v.jpg)
 
 ---
 

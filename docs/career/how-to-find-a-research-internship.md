@@ -33,8 +33,6 @@ Reach out to prior students and learn more!
 选择一位鼓励、支持并允许学生参加暑期实习的导师。有些导师可能要求学生整个暑假必须留在组内完成科研基金项目，甚至可能因去实习而延迟毕业。
 主动向组内往届师兄师姐打听了解情况！
 
-![Supportive advisor](https://pbs.twimg.com/tweet_video_thumb/E_YANLcXIAMTjwd.jpg)
-
 ---
 
 *Stay connected*
@@ -51,8 +49,6 @@ There are many great internship (or jobs) opportunities advertised on Twitter.
 *关注 Twitter 上的前沿动态 (Get on Twitter)*
 许多一流的研究团队都会在 Twitter 上直接发布其实习或全职职位的招聘信息。
 
-![Get on Twitter](https://pbs.twimg.com/tweet_video_thumb/E_YAN25X0AAdw94.jpg)
-
 ---
 
 *Apply broadly*
@@ -63,8 +59,6 @@ Remember, you cannot get an offer from a position you did not apply to!
 你永远无法预判你的专长和兴趣是否恰好与工业界实验室的某个团队相契合（因为企业团队每年的重点课题可能剧烈变动）。
 请牢记：你绝不可能拿到一个你压根没投过的岗位的 Offer！
 
-![Apply broadly](https://pbs.twimg.com/tweet_video_thumb/E_YAOTmWQAAFB0c.jpg)
-
 ---
 
 *Apply early*
@@ -72,8 +66,6 @@ Most of the positions are accepted *on a rolling basis*. If you apply late, you 
 
 *尽早申请 (Apply early)*
 大多数科研实习岗位都采取**滚动录取（Rolling basis）**。如果你申请得太晚，往往会发现绝大部分名额早早被招满了。😔
-
-![Apply early](https://pbs.twimg.com/tweet_video_thumb/E_YAOwhWQAA_UEn.jpg)
 
 ---
 
@@ -87,8 +79,6 @@ https://twitter.com/jbhuang0604/status/1420611695848869892
 关于如何撰写套磁信的详细建议：
 https://twitter.com/jbhuang0604/status/1420611695848869892
 
-![Send cold emails](https://pbs.twimg.com/tweet_video_thumb/E_YAPOZXsAUrBSB.jpg)
-
 ---
 
 *Extend and finish your project*
@@ -98,8 +88,6 @@ This involves your advisor's support, company policy (e.g. code/data release or 
 *延伸并完整交付项目 (Extend and finish your project)*
 暑期转瞬即逝。通常你都需要额外几个月的时间来收尾工作并将其凝练为一篇高水平论文。
 这需要学校导师的支持、企业相关政策的许可（如代码/数据开源或知识产权协议）以及身份签证手续（如 CPT）。
-
-![Extend and finish project](https://pbs.twimg.com/tweet_video_thumb/E_YAPrXWEAIE-ev.jpg)
 
 ---
 

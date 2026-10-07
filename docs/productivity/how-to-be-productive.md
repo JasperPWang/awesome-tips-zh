@@ -19,8 +19,6 @@ If you have to eat a frog, make it the very first task you do in your day. If yo
 *先吃掉那只青蛙 (Eat that frog)*
 如果你今天必须吃掉一只青蛙，那就把它作为你每天清晨要做的第一件事。如果你一天必须吃掉三只青蛙，千万别从小的那只开始吃（先啃下最艰难的硬骨头）。
 
-![Eat that frog](https://pbs.twimg.com/tweet_video_thumb/E9hk_HtXoAAnhMZ.jpg)
-
 ---
 
 *Have a plan*
@@ -28,8 +26,6 @@ If you have no idea what you will be doing 2:30 PM next Wed, you are doing it wr
 
 *凡事必有规划 (Have a plan)*
 如果你压根不知道下周三下午 2:30 自己要做什么，那你的工作方式就出问题了。保持灵活并随时根据变化调整计划完全没问题，但关键在于你必须从一开始就拥有清晰的规划底稿。
-
-![Have a plan](https://pbs.twimg.com/tweet_video_thumb/E9hk_zUXsAUw9lK.jpg)
 
 ---
 
@@ -49,8 +45,6 @@ https://deviparikh.medium.com/calendar-in-stead-of-to-do-lists-900fe8dc2c1b
 把你计划要做的“每一件事”（包括规划日历本身）都变成日历上的具体时间块，并在对应的时间坚决执行。强烈推荐阅读 Devi Parikh 教授的精彩博文：用日历代替待办清单。
 https://deviparikh.medium.com/calendar-in-stead-of-to-do-lists-900fe8dc2c1b
 
-![Treat time as space](https://pbs.twimg.com/tweet_video_thumb/E9hlAvoXsAQ-4tT.jpg)
-
 ---
 
 *Use interrupt coalescing*
@@ -59,8 +53,6 @@ Group and defer interruptions (e.g., emails, slack messages, twitter feeds) acco
 *合并处理外界中断 (Use interrupt coalescing)*
 借鉴操作系统的“中断合并”策略，根据紧急程度对外界打扰（如邮件、Slack 消息、社交媒体推送）进行归类与延迟。在一天中划出专门的固定时间段集中批量处理。
 
-![Interrupt coalescing](https://pbs.twimg.com/tweet_video_thumb/E9hlBO2WQAAI24A.jpg)
-
 ---
 
 *Break your day down into short time chunks*
@@ -68,8 +60,6 @@ Get a timer/app, work on your task for 25 mins. Take a 5 min break and repeat. (
 
 *把一天切分为短时间模块 (Break day down)*
 使用计时器或番茄钟软件，高度专注工作 25 分钟，随后休息 5 分钟，循环往复（番茄工作法）。
-
-![Pomodoro](https://pbs.twimg.com/tweet_video_thumb/E9hlBzDWEAMLt8j.jpg)
 
 ---
 
@@ -93,8 +83,6 @@ Sometimes you may be spending more time ranking the tasks than actually doing it
 *放弃对任务优先级的过度精确排序 (Give up precise task prioritization)*
 有时候，你花在反复衡量、微调任务优先级排序上的时间，可能比真正动手去做这件事本身还要多。
 
-![Prioritization](https://pbs.twimg.com/tweet_video_thumb/E9hlCieWEAUWY8j.jpg)
-
 ---
 
 *Touch each email exactly once*
@@ -102,8 +90,6 @@ Open an email, skim through it, and make a quick decision (reply/archive/allocat
 
 *每封邮件只触碰一次 (Touch each email exactly once)*
 点开一封邮件，快速扫一眼，立即做出果断决策（立即回复 / 直接归档 / 放入日历特定时间段）。保持收件箱清零（Inbox Zero）。
-
-![Touch email once](https://pbs.twimg.com/tweet_video_thumb/E9hlDC-XoAUL9-v.jpg)
 
 ---
 

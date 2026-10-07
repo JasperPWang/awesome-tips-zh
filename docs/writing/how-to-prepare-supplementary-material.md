@@ -31,8 +31,6 @@ Don't give them any reason.
 • 实验验证缺乏说服力？
 千万不要给审稿人留下任何毙稿的借口。
 
-![Why](https://pbs.twimg.com/tweet_video_thumb/Fhnr-NJWAAImK6w.jpg)
-
 ---
 
 *What? - Exposition*
@@ -43,8 +41,6 @@ Anticipate the questions! Including additional figures, tables, proof, and algor
 受制于正文篇幅限制，无法在正文中把方法完全讲透？
 提前预判审稿人的疑问！在补充材料中加入额外的示意图、对比表格、数学证明和算法伪代码，能极大化解这些困扰。
 
-![Exposition](https://pbs.twimg.com/tweet_video_thumb/Fhnr-pWXgAAb7JU.jpg)
-
 ---
 
 *What? - Details*
@@ -54,8 +50,6 @@ Provide sufficient implementation details of your method, data, methodology, and
 *放什么？——复现细节 (Details)*
 可复现性（Reproducibility）是每位审稿人都极度关切的核心痛点。
 提供关于你的算法实现、数据预处理、实验方法和评估指标的详尽细节，确保任何人都能根据你的描述复现实验结论。
-
-![Details](https://pbs.twimg.com/tweet_video_thumb/Fhnr_ISXoAEAx56.jpg)
 
 ---
 
@@ -69,8 +63,6 @@ PDF 论文本身可能并不是呈现实验验证的最佳媒介格式。
 例如，如果你的研究聚焦在视频领域，请务必展示完整的动态视频结果（而不是几张静态抽帧截图）。
 在论文里放视频抽帧，就好比只展示一张二维图像的一维扫描线一样无力！
 
-![Validation](https://pbs.twimg.com/tweet_video_thumb/Fhnr_jiXoAYN-kF.jpg)
-
 ---
 
 *How? - Organization*
@@ -83,8 +75,6 @@ alex04072000.github.io/SOLD/website/O…
 就我个人而言，我极其推崇使用本地单机 HTML 网页（不含外部联网链接）来组织所有可视化结果。交互式的滑动对比浏览体验极其出色。
 典范参考：
 https://alex04072000.github.io/SOLD/website/Overview.html
-
-![Organization](https://pbs.twimg.com/tweet_video_thumb/FhnsARzWQAA54Yt.jpg)
 
 ---
 

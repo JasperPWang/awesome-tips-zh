@@ -29,8 +29,6 @@ Reach out to your mentors *before* starting your internship.
 • 提醒导师共同敲定一份详尽的实习计划
 👉 确保你入职第一天就能迅速进入高效产出状态（hit the ground running）！
 
-![Get ready](https://pbs.twimg.com/tweet_video_thumb/FOVxv9sWUAkd1pO.jpg)
-
 ---
 
 *Pitch ideas*
@@ -41,8 +39,6 @@ Research internships work best when they align with your thesis topic well. How 
 当实习课题与你的毕业论文研究方向高度契合时，科研实习的效果往往最好。如何做到这一点？
 👉 主动向你的企业导师推介你自己构思的研究想法。
 
-![Pitch ideas](https://pbs.twimg.com/tweet_video_thumb/FOVxwaSXsAEPHf_.jpg)
-
 ---
 
 *Set SMART goals*
@@ -52,8 +48,6 @@ Don't use internship for random exploration of research ideas, you should have S
 *设立 SMART 目标 (Set SMART goals)*
 不要在实习期漫无目的地随机探索想法，你应该设立具体的（Specific）、可衡量的（Measurable）、可实现的（Achievable）、相关的（Relevant）和有明确截止时间的（Time-bound）SMART 目标。
 👉 早期就与企业导师紧密合作，确立 SMART 目标并制定清晰的技术路线图。
-
-![Set SMART goals](https://pbs.twimg.com/tweet_video_thumb/FOVxw11XIAMb3Il.jpg)
 
 ---
 
@@ -69,8 +63,6 @@ https://twitter.com/jbhuang0604/status/1418407079077842944
 延伸阅读：
 https://twitter.com/jbhuang0604/status/1418407079077842944
 
-![Help your mentors](https://pbs.twimg.com/tweet_video_thumb/FOVxxRlXsAI0-7q.jpg)
-
 ---
 
 *Beyond the summer*
@@ -80,8 +72,6 @@ It's common/normal that you cannot finish up the project in 3 months. Engage wit
 *延伸至暑期之后 (Beyond the summer)*
 在 3 个月内无法完全收尾一个项目是极其常见且正常的。与学校导师沟通并争取其支持。国际学生需更早规划，避免因繁琐手续（如兼职 CPT）造成延误。
 👉 善始善终，强势收尾！
-
-![Beyond the summer](https://pbs.twimg.com/tweet_video_thumb/FOVxxxtWQAEFFsv.jpg)
 
 ---
 
@@ -93,8 +83,6 @@ Aside from working on your project, grab lunch together with your fellow interns
 除了推进手头的课题，多与其他实习生一起吃午饭、参加学术讲座并积极提问、周末和新朋友一起聚会活动。
 👉 你会发现，在此期间结建的人际网络，*远比单一的项目本身更有价值*。
 
-![Meet new people](https://pbs.twimg.com/tweet_video_thumb/FOVxyNsWYAQ-Lpq.jpg)
-
 ---
 
 Happy interning!
@@ -103,4 +91,3 @@ Wish everyone a fun and productive summer!
 祝大家实习愉快！
 愿每个人都能度过一个充实、富有成效且充满乐趣的暑假！
 
-![Happy interning](https://pbs.twimg.com/tweet_video_thumb/FOVxypMXoAYTjez.jpg)

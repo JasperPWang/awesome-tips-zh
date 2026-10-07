@@ -23,8 +23,6 @@ Ex: Text / audio / image / video / graph
 刚从别人的工作中学习到一个很酷的想法？思考一下你是否能把它扩展到另一个维度。
 例如：文本 / 音频 / 图像 / 视频 / 图结构（Graph）
 
-![Find a different dimension](https://pbs.twimg.com/tweet_video_thumb/E8FJfXhXMAIts49.jpg)
-
 ---
 
 *Relax assumptions*
@@ -33,8 +31,6 @@ Identify the underlying assumptions of existing work and try relaxing them to ma
 *放宽前置假设 (Relax assumptions)*
 识别已有工作背后的潜在假设，并尝试放宽这些假设，使其能够在更不受限制、更具普适性的真实场景中运行。
 
-![Relax assumptions](https://pbs.twimg.com/tweet_video_thumb/E8FJf3bXEAArOrJ.jpg)
-
 ---
 
 *Make more assumptions*
@@ -42,8 +38,6 @@ Take a general approach and tailor it to your SPECIFIC problem. You can then lev
 
 *增加更多假设 (Make more assumptions)*
 选取一个通用方法，并将其专门针对你的“特定”问题进行量身定制。这样你就可以利用所有的领域先验知识（即引入更多先验假设）来显著改进该方法。
-
-![Make more assumptions](https://pbs.twimg.com/tweet_video_thumb/E8FJgW3XMAAija3.jpg)
 
 ---
 
@@ -60,8 +54,6 @@ Pay attention to new emerging tools in the community. Apply and adapt them on yo
 
 *拿起一把强大的锤子，寻找所有的钉子 (Grab a powerful hammer and find all the nails)*
 密切关注学术社区中最新涌现的强大工具与方法。将它们应用并迁移适配到你的具体问题上。
-
-![Grab a powerful hammer and find all the nails](https://pbs.twimg.com/tweet_video_thumb/E8FJhF3XIAEvDL4.jpg)
 
 ---
 
@@ -89,8 +81,6 @@ and so on
 - 依赖海量数据 ➡️ 数据高效利用（data-hungry ➡️ data-efficient）
 等等诸如此类。
 
-![Add an adjective](https://pbs.twimg.com/tweet_video_thumb/E8FJhj3WQAErr91.jpg)
-
 ---
 
 *Stress test the state-of-the-art*
@@ -98,8 +88,6 @@ Don't simply run on the fixed, boring benchmark datasets. Try it out on diverse,
 
 *对顶尖现有工作进行极限压力测试 (Stress test the state-of-the-art)*
 不要只在那些固定、枯燥的标准基准数据集上跑评测。把它放到多样化、无约束的真实极端样本上测试，观察它究竟是如何崩溃的。这是发现现有工作局限性的绝佳方法，而这正是你的研究所能填补的空白所在。
-
-![Stress test the state-of-the-art](https://pbs.twimg.com/tweet_video_thumb/E8FJiBNXEAMr1Bi.jpg)
 
 ---
 

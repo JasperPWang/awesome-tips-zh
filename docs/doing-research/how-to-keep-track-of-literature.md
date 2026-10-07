@@ -27,8 +27,6 @@ There are far fewer key people who are driving the field forward than the number
 
 真正推动领域向前发展的核心人物，数量远远少于论文的总篇数。当你阅读论文时，留意作者是谁。久而久之，你就能迅速辨认出那些举足轻重的学者。
 
-![Track people](https://pbs.twimg.com/tweet_video_thumb/E8pPGHfWYAAO-dy.jpg)
-
 ---
 
 *Read papers with good related work*
@@ -43,8 +41,6 @@ https://twitter.com/jbhuang0604/status/1417117742302433286?s=20
 顺带提一句：也请你通过撰写高质量的相关工作来节省他人的时间：  
 https://twitter.com/jbhuang0604/status/1417117742302433286?s=20
 
-![Related work](https://pbs.twimg.com/tweet_video_thumb/E8pPGlrWUAAqBgt.jpg)
-
 ---
 
 *Organize the papers*
@@ -56,8 +52,6 @@ With this table, reading new papers becomes easy (just add more rows).
 
 不要孤立地阅读单篇论文。思考它们之间是如何互相关联的（在某些维度相似，但在另一些维度不同）。建立一个以特定**属性（ATTRIBUTES）**作为列的对照表格通常很有帮助。  
 有了这个表格，后续阅读新论文就会变得轻而易举（只需往表格里追加新行即可）。
-
-![Organize papers](https://pbs.twimg.com/tweet_video_thumb/E8pPHV4XsAAUbe3.jpg)
 
 ---
 
@@ -71,8 +65,6 @@ Very often understanding the gist of the paper is all you need.
 与其花费大量时间逐字阅读论文全文，不如寻找那些更容易消化的精炼材料，例如：一次学术报告、一段 YouTube 讲解视频、Teaser 效果展示、介绍视频或一张方法总览图。  
 很多时候，只要把握住论文的核心要义就足够了。
 
-![Avoid reading paper](https://pbs.twimg.com/tweet_video_thumb/E8pPH0IWEAAu0DB.jpg)
-
 ---
 
 *Read with a purpose*
@@ -84,8 +76,6 @@ You almost never need to read a paper from top to bottom.
 
 在投入时间阅读一篇论文之前，先想清楚你**为什么**要读它。你是为了了解其实验设计、论文组织结构、叙事方式、写作风格、具体方法算法，还是为了学习其可视化呈现？  
 你几乎从来不需要从头到尾、一字不漏地通读一篇论文。
-
-![Read with purpose](https://pbs.twimg.com/tweet_video_thumb/E8pPIRwXMAAXOm2.jpg)
 
 ---
 
@@ -102,8 +92,6 @@ twitter.com
 arxiv-sanity.com  
 paperswithcode.com  
 twitter.com
-
-![Identify trend](https://pbs.twimg.com/tweet_video_thumb/E8pPI_5WYAATKl-.jpg)
 
 ---
 

@@ -23,8 +23,6 @@ If they need to spend 15 mins filling out your scheduling request, they will sim
 不要发送包含 30 多个选项的 Doodle 或 When2meet 投票链接！先去查阅他们的（课程）时间表，只提出极少数几个（3-5 个）候选时间段。
 如果他们需要花 15 分钟来填写你的时间调查问卷，他们大概率会直接忽略你的邮件。
 
-![Group scheduling](https://pbs.twimg.com/tweet_video_thumb/FAFpBeGVIAoQVen.jpg)
-
 ---
 
 *Give them the control for planning their day*
@@ -39,8 +37,6 @@ When you ask for availability, you are effectively asking for commitment for ALL
 ✅ 正确做法：我在……时间段有空。请问您在其中某个时间段方便吗？
 当你开口询问对方的空闲时间时，实际上是在迫使他们把所有可用时段都向你承诺曝光。
 
-![Give them the control](https://pbs.twimg.com/tweet_video_thumb/FAFpB_dX0AA4qiY.jpg)
-
 ---
 
 *Calendar invite*
@@ -50,8 +46,6 @@ Whatever that's not on their calendar does not exist.
 *发送日历邀请 (Calendar invite)*
 一旦确定了会议时间，请务必发送附带所有必要信息（例如 Zoom 会议链接）的日历邀请。
 对教授来说，任何没有出现在日历上的日程，就等同于不存在。
-
-![Calendar invite](https://pbs.twimg.com/tweet_video_thumb/FAFpChdVUAEX5S7.jpg)
 
 ---
 
@@ -66,8 +60,6 @@ Whatever that's not on their calendar does not exist.
 • 需要求职信 Cover Letter？先帮他们起草一份初稿。
 • 需要找教授写推荐信？主动附上你最新的简历（CV）和个人陈述（SOP）。
 • 需要咨询课程问题？先去把课程大纲（Syllabus）仔细读一遍。
-
-![Go 90%](https://pbs.twimg.com/ext_tw_video_thumb/1441502866435346438/pu/img/Fm1cjyyTg-eRLnhI.jpg)
 
 ---
 
@@ -84,8 +76,6 @@ Don't send requests to MULTIPLE people in the same thread. Everyone will assume 
 
 *不要抄送所有人 (Don't cc all parties involved)*
 不要在同一封邮件里同时向多个人提出行动请求。每个人都会潜意识以为其他人会去处理，导致最终谁都不做（旁观者效应）。有需求请分别单独发送一对一邮件。
-
-![Don't cc everyone](https://pbs.twimg.com/tweet_video_thumb/FAFpFC0WYAMhy-F.jpg)
 
 ---
 
@@ -121,4 +111,3 @@ Provide specific action and specific date that the task needed to be completed. 
 *明确截止时间线 (Timeline)*
 明确列出需要完成的具体行动项以及最晚完成的具体日期。这能帮助他们合理规划日程，为你的请求留出时间。
 
-![Timeline](https://pbs.twimg.com/tweet_video_thumb/FAFpGFSWEAAss93.jpg)

@@ -21,8 +21,6 @@ Don't panic! With good prioritization and strategy, I am sure you will nail this
 *保持冷静 (Calm down)*
 不要惊慌！通过合理的优先级排序和科学策略，你一定能够妥善搞定这一切！
 
-![Calm down](https://pbs.twimg.com/tweet_video_thumb/Fs647w9XgAEFLyt.jpg)
-
 ---
 
 *Prioritization*
@@ -32,8 +30,6 @@ To do well, identify each task's importance and urgency and develop a strategy.
 *明确优先级 (Prioritization)*
 多任务并行只是快速上下文切换的一种表象。
 想要做好，必须清晰界定每项任务的重要性和紧迫性，并制定相应的执行策略。
-
-![Prioritization](https://pbs.twimg.com/tweet_video_thumb/Fs648TgWwAINO9t.jpg)
 
 ---
 
@@ -46,8 +42,6 @@ Cut down unnecessary tasks ruthlessly and shake them off.
 所有这些任务“真的”都是非做不可的吗？
 “拒绝”应当成为你的默认选项。
 无情地砍掉不必要的任务，甩掉包袱轻装上阵。
-
-![Say no](https://pbs.twimg.com/tweet_video_thumb/Fs648wQXoAYCS71.jpg)
 
 ---
 
@@ -63,8 +57,6 @@ Avalanche: focuses on debt with the highest interest (most important tasks).
 👍 从长远来看效率最高、成效最显著。
 👎 如果该任务耗时极为漫长，过程中容易产生挫败感。
 
-![Avalanche](https://pbs.twimg.com/tweet_video_thumb/Fs649NKXoAM6C_V.jpg)
-
 ---
 
 *Snowball method*
@@ -77,8 +69,6 @@ Snowball: focuses on debt with the smallest balance (the easiest tasks).
 👍 享受沿途快速达成目标的小确幸，更容易产生成就感与动力。
 👎 对于达成长期重大目标的直接推动效率相对较低。
 
-![Snowball](https://pbs.twimg.com/tweet_video_thumb/Fs649vDX0AM4tNf.jpg)
-
 ---
 
 *Two-minute rule*
@@ -86,8 +76,6 @@ If you can cross a task in two minutes or less, tackle it now. Don’t add that 
 
 *两分钟定律 (Two-minute rule)*
 如果某项任务可以在两分钟以内迅速搞定，立刻动手去办，千万不要把它写进待办清单里增加心智负担。
-
-![Two-minute rule](https://pbs.twimg.com/tweet_video_thumb/Fs64-NDWYAU3Hk4.jpg)
 
 ---
 
@@ -99,8 +87,6 @@ Use a calendar 🗓️, not a to-do list 🗒️!
 一旦制定好了策略，就为具体的任务分配专属的时间块，并严格遵照执行。
 使用日历 🗓️，而不是无休止的待办清单 🗒️！
 
-![Time-blocking](https://pbs.twimg.com/tweet_video_thumb/Fs64-tNWwAUvDEi.jpg)
-
 ---
 
 *Set deadlines*
@@ -110,8 +96,6 @@ Set artificial deadlines and get more done in less time!
 *设定人为截止日期 (Set deadlines)*
 帕金森定律：工作会自动膨胀，直至占满所有可用于完成它的时间。
 主动设定具有紧迫感的人为截止日期，用更少的时间完成更多产出！
-
-![Set deadlines](https://pbs.twimg.com/tweet_video_thumb/Fs64_wPWYAAYDJu.jpg)
 
 ---
 
@@ -123,4 +107,3 @@ Prompting your body and mind to complete multiple tasks effectively.
 照顾好你自己。保证充足的睡眠 🛌、规律健康的饮食 🍲，以及坚持运动 💪。
 时刻让你的身心处于能够高效应对多重任务的充沛状态。
 
-![Self-care](https://pbs.twimg.com/tweet_video_thumb/Fs65AMVWIAU9Y3P.jpg)

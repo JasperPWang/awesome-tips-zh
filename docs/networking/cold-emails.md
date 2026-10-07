@@ -41,10 +41,6 @@ Understand basic email etiquette. Do not use Miss / Mrs. particularly if you kno
 
 了解基础邮件礼仪。切勿使用 Miss / Mrs.，尤其是当你明确知道收件人拥有博士学位时。请尊重他们的专业素养（称呼 Professor 或 Dr.）。
 
-![Figures](https://pbs.twimg.com/media/E7cBs5DWEAAFWRq?format=jpg&name=large)
-
-Image credit: [link](https://twitter.com/brandonbayne/status/1416508720683622407)
-
 ---
 
 ## Introduction / 自我介绍
@@ -52,8 +48,6 @@ Image credit: [link](https://twitter.com/brandonbayne/status/1416508720683622407
 A simple one would work. My name is NAME. I am a POSITION from AFFILIATION. I am writing to WHAT DO YOU WANT
 
 简明扼要即可：我叫 [姓名]，是来自 [所在机构/大学] 的 [年级/职位]。我写信是为了 [你希望达成的具体目标]。
-
-![Introduction](https://media.giphy.com/media/Q7LP0tm86sBWIqjFCL/giphy.gif)
 
 ---
 

@@ -39,8 +39,6 @@ Rule of thumbs for my students preparing a talk:
 • 永远只写精炼的一句话短语（One-liners）
 • 每张幻灯片上的文字绝对不超过三行
 
-![Be concise](https://pbs.twimg.com/tweet_video_thumb/E2NZmzzWEAE1nea.jpg)
-
 ---
 
 *Tables*
@@ -70,8 +68,6 @@ The title should describe the TAKEAWAY message from that slide.
 *具有信息量的幻灯片标题 (Informative slides title)*
 不要把幻灯片最醒目的核心标题位置浪费在“实验结果（Results）”、“视觉对比（Visual comparison）”或“消融实验（Ablation study）”这种空洞字眼上。
 标题应该直接写明该页幻灯片的核心**结论与启示（TAKEAWAY message）**。
-
-![Informative title](https://pbs.twimg.com/tweet_video_thumb/E2NZnr5X0AI3KlV.jpg)
 
 ---
 
@@ -109,8 +105,6 @@ When advancing the slides, make sure that all the components are perfectly align
 运用简单的出现动画将复杂的框架图、示意图或概念拆解为循序渐进的步骤。
 翻页推进时，确保所有视觉元素严格对齐，以最大程度减少听众的认知负担。
 
-![Animation](https://pbs.twimg.com/tweet_video_thumb/E2O-EptXEAITsho.jpg)
-
 ---
 
 *Videos*
@@ -118,8 +112,6 @@ Insert the video (no YouTube embedding please) and use animation to control the 
 
 *视频展示 (Videos)*
 直接在本地插入视频文件（切勿使用在线 YouTube 网页嵌入），并使用动画控制其播放和停止时机。否则在台上你可能会慌乱地到处找鼠标光标去点击播放键。
-
-![Videos](https://pbs.twimg.com/tweet_video_thumb/E2O-FJdXoAggnSr.jpg)
 
 ---
 
@@ -131,8 +123,6 @@ But remember that your audience will be much happier to see a concise and clear 
 学生们往往倾向于把论文里的所有细节一股脑全塞进演讲里。这种心情完全可以理解，毕竟每一项都是心血。
 但请记住：听众真正渴望看到的是一场清晰、精简、抓重点的精彩汇报。
 
-![Level of details](https://pbs.twimg.com/tweet_video_thumb/E2PiFQ_X0AMKJRe.jpg)
-
 ---
 
 *Pointer*
@@ -142,8 +132,6 @@ Don't use a laser pointer for in-person talks as well. Nothing is more annoying 
 *指引标记 (Pointer)*
 如果你打算指出幻灯片中的某个数字、文字或局部图，用动画直接加一个箭头、框或圆圈。不要用鼠标光标晃来晃去。
 在线下汇报中也尽量避免使用激光笔，没有什么比台下所有人盯着一个剧烈颤抖的红色小光点更让人心烦意乱的了。
-
-![Pointer](https://pbs.twimg.com/tweet_video_thumb/E2P1S1YXMAgQiO6.jpg)
 
 ---
 
@@ -163,4 +151,3 @@ How? Add a square blocking the contents with 10% transparency.
 当你想强调高亮某个核心结论或重要概念时，务必同时“弱化”页面上的其他背景内容。
 如何实现？在其他内容上方叠加一层半透明蒙版进行遮挡弱化。
 
-![Emphasis](https://pbs.twimg.com/tweet_video_thumb/E2RhiTYXsAAXk4d.jpg)
